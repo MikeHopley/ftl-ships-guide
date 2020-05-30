@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>{{ title }}</title>
+		<link rel="stylesheet" href="/css/main.css"/>
+		<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+	</head>
+	<body>
+		<div class="content-wrapper">
+			<div class="title title-homepage">
+				<div class="text">
+					<div>
+						<h1>{{ title }}</h1>
+						<p class="subtitle">{{ subtitle }}</p>
+					</div>
+				</div>
+				<div class="flagship">
+					<img src="img/flagship_broken_med.png"/>
+				</div>
+			</div>
+			<div class="flow">
+				{{ content }}
+			
+				<p class="end-link"><a href="#top">Back to the ships</a></p>
+			</div>
+
+			<div class="fleet-container">
+				<img class="end-pic" src="img/fleet_big.png" width="334" height="132">
+			</div>
+		</div>
+	</body>
+</html>
