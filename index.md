@@ -8,7 +8,7 @@ subtitle: by Mike Hopley
 | ------- | ------ | ------ | ------ |
 | [Kestrel A](/kestrel-a) | [Kestrel B](/kestrel-b) | [Kestrel C](/kestrel-c) |
 | [Engi A](/engi-a) | [Engi B](/engi-b) | [Engi C](/engi-c) |
-| [Federation A](/federation-a) | [Federation B](/federation-b) | [Federation C](/federation-c)                              |
+| [Fed. A](/federation-a) | [Fed. B](/federation-b) | [Fed. C](/federation-c)                              |
 | [Zoltan A](/zoltan-a) | [Zoltan B](/zoltan-b) | [Zoltan C](/zoltan-c) |
 | [Mantis A](/mantis-a) | [Mantis B](/mantis-b) | [Mantis C](/mantis-c) |
 | [Slug A](/slug-a) | [Slug B](/slug-b) | [Slug C](/slug-c) |
