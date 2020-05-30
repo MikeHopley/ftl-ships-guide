@@ -1,14 +1,22 @@
 {
-  "name": "Ships_guide",
+  "name": "ftl-ships-guide",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": ".eleventy.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeHopley/ftl-ships-guide.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeHopley/ftl-ships-guide/issues"
+  },
+  "homepage": "https://github.com/MikeHopley/ftl-ships-guide#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0"
   }
