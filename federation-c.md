@@ -4,16 +4,16 @@ title: Federation C
 subtitle: The Fregatidae
 ---
 
-This ship starts vulnerable due to weak offence. Rush shields, then look for a weapon. A weapons buffer is also good, but I think the shield upgrades are safer. Get the weapons buffer when you can, but not if it might prevent you buying a weapon.
+This ship takes a lot of early damage, since it has no quick way to disable enemy weapons. Rush shields, then look for weapons. Weapons-2 costs 40 scrap, so 1-power weapons are particularly helpful early on. A Small Bomb is ideal.
 
-Your Zoltan can [power shields-3](https://www.youtube.com/watch?v=jpR3veZtlsc&t=1m59s) against ion. Leto is weak but worth keeping unless you need the slot for something else. Dual Lasers are fantastic on a 4-slot ship; almost always keep them.
+When completely safe, destroy systems for surrender offers (as low as 1 hull).
 
-[Defence drones cover this ship poorly](https://i.imgur.com/TpuD5BE.jpg): shields and weapons are vulnerable. Avoid spending scrap on the artillery beam, unless everything else is set.
+Mantis and Human are the strongest and safest boarding party (Zoltan bombing is more cute than effective). Keeping Zoltans at home also has tactical advantages: they can ion-proof your clone bay, [ion-proof one shield layer](https://www.youtube.com/watch?v=jpR3veZtlsc&t=3m15s), or [de-ionise shields](https://www.youtube.com/watch?v=jpR3veZtlsc&t=52s) even when you have multiple layers.
 
-Put the Slug in piloting, and the Zoltan in weapons: they can [de-ionise shields](https://www.youtube.com/watch?v=jpR3veZtlsc&t=52s) and steal power from mind control or hacking, which are slotted nearby (although cloaking slots next to engines). Consider starting the engines crew on doors; just remember to send them back!
+Start the engines Zoltan in sensors. This gives information on enemy crew, and they are close enough to steal teleporter power before a hack lands (neutralising the hack). With more crew, you can start them in the middle of the clone bay and run towards artillery.
 
-The layout is a little awkward, but you can still vent shields or weapons in under 3 seconds by using **all** airlocks and turning off O2.
+Emergency Respirators make automated ships much easier to board. Keep them until you need to sell them for something better, like a weapon.
 
-Enemies may start running away when your weapons or artillery hits them, so try to have the other damage source ready to fire immediately afterwards. Manage the power on your Artillery so that it fires at a good time.
+As usual, the artillery is too expensive to upgrade, unless you are late in the game with plenty of scrap. Unlike a normal flak weapon, it does not disrupt cloaking.
 
-In sector 1, prefer unmarked beacons over distress. Your have weak blue options from the Slug and artillery.
+Sector 1 distress beacons are worth visiting. You have a clone bay, plus an okay teleporter blue option.

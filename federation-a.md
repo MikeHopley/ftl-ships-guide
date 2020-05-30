@@ -14,6 +14,4 @@ Since artillery uses a system slot, you can only pick two more systems. [Defence
 
 For crew positions, I like: Rock piloting, Mantis engines, Human weapons, Engi starting on doors. The Engi should be mobile for repairs, and can move to shields if doors aren’t needed. Piloting is awkward to vent, so the Rock’s fire-immunity and 67% fire-fighting bonus is helpful. Weapons is a high-priority room to repair, so I prefer the Human over the Mantis here.
 
-Consider pre-venting the empty rooms on the right side, then letting them refill a bit. Also consider pre-venting the top-left rooms above engines.
-
 Sector 1 distress beacons are well worth visiting. You have good blue options with Engi and Rock crew, and a weak one from the Artillery. A guaranteed fight is probably still better.

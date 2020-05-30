@@ -6,7 +6,7 @@ subtitle: The Stormwalker
 
 Rush shields, then look for a weapon. You don’t need clone/medbay as urgently as you might think (prefer clone bay).
 
-Even without Reconstructive Teleport, you *can* skip clone/medbay entirely, for an extra system slot. I don’t recommend it though, because because clone/medbay will always take up a slot in stores, making it harder to find the systems you want. The extra system is only an endgame advantage, and by that time you’ve already won.
+Even without Reconstructive Teleport, you *can* skip clone/medbay entirely, for an extra system slot. I don’t recommend it though, because clone/medbay will always take up a slot in stores, making it harder to find the systems you want. The extra system is only an endgame advantage, and by that time you’ve already won.
 
 Mind control can be a strong purchase on a two-tile boarding ship, especially early, as it enables the same early-game tactics as Lanius B.
 
