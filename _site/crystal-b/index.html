@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Crystal B</title>
+	<link rel="stylesheet" href="/css/main.css"/>
+	<link rel="stylesheet" href="/css/crystal-b.css"/>
+	<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+	<link rel="preload" as="image" href="/img/crystal-b/battery.png"/>
+	<link rel="preload" as="image" href="/img/crystal-b/cloak.png"/>
+	<link rel="preload" as="image" href="/img/crystal-b/doors.png"/>
+	<link rel="preload" as="image" href="/img/crystal-b/drones.png"/>
+	<link rel="preload" as="image" href="/img/crystal-b/engines.png"/>
+	<link rel="preload" as="image" href="/img/crystal-b/hack.png"/>
+	<link rel="preload" as="image" href="/img/crystal-b/medbay.png"/>
+	<link rel="preload" as="image" href="/img/crystal-b/mind.png"/>
+	<link rel="preload" as="image" href="/img/crystal-b/oxygen.png"/>
+	<link rel="preload" as="image" href="/img/crystal-b/pilot.png"/>
+	<link rel="preload" as="image" href="/img/crystal-b/sensors.png"/>
+	<link rel="preload" as="image" href="/img/crystal-b/shields.png"/>
+	<link rel="preload" as="image" href="/img/crystal-b/teleport.png"/>
+	<link rel="preload" as="image" href="/img/crystal-b/weapons.png"/>
+	<link rel="preload" as="image" href="/img/crystal-b/empty.png"/>
+	<link rel="preload" as="image" href="/img/crystal-b/artillery.png"/>
+</head>
+<body>
+
+<div class="content-wrapper">
+
+	<p class="guide"><a href="/">FTL ships guide</a> > Crystal B</p>
+
+	<div class="title">
+		<div>
+			<h1>Crystal B</h1>
+			<p class="subtitle">Carnelian</p>
+		</div>
+		<img src="/img/crystal-b/scaled.png" alt=""/>
+	</div>
+	<div class="flow content">
+		<p>Pre-vent the cloaking room, as it’s a long way from your other stations. You might even pre-vent weapons.</p>
+<p>Consider delaying shield upgrades slightly. You cannot touch Zoltan ships initially, and can cripple but not kill automated ships. In the worst possible case, you could be forced into a Zoltan sector 2. Crystal Lockdown makes you very safe in most fights, and cloaking adds more safety. You also have 40 scrap from Crystal Vengeance.</p>
+<p>If you are without weapons in a Rebel sector or Uncharted Nebula, consider buying clone bay so you can kill automated ships. Same goes for Abandoned sectors (although an upgraded teleporter will work there, with careful play).</p>
+<p>Start fights with one Crystal in the teleporter, and have the pilot start walking there during the FTL jump. Put the other Crystal in sensors. Manning sensors delays two-Crystal boarding by about 1 second, but can be relevant for deciding whether to board with all three Crystals or keep one back for piloting and repairs. In particularly awful situations, sensor information can stop you sending crew on a suicide mission.</p>
+<p>Each lockdown lasts 12 seconds. Hitting lockdown <strong>immediately</strong> when boarding can prevent enemy crew entering the room, sometimes even when they are standing on an adjacent tile. When unopposed, two Crystals will break 3 weapons levels in ~19 seconds; three Crystals will break 8 weapons levels (!) in ~33 seconds (in a four-tile weapons room).</p>
+<p>Typically board weapons directly; but if they have crew manning the room, it may be better to board elsewhere and <a href="https://streamable.com/dnyto">sneak back into weapons</a> once it’s empty. Crew can walk straight through lockdown, provided they were already past the halfway point on the adjacent tile.</p>
+<p>Consider pre-cloaking enemy weapons, if you think you can break them in time. Your cloak resets immediately after killing the enemy crew; use this to dodge last-second missiles.</p>
+<p>Crystals can survive 39 seconds without air. Board auto-ships with two Crystals to neutralise them while getting combat training, but calculate enemy weapon timings to ensure you can repair the teleporter in time. Beware breaches, which double repair time to 25 seconds. It takes 6 seconds to walk from piloting.</p>
+<p>Sell Crystal Vengeance at the first store. You only have one system slot left, so get hacking.</p>
+<p>Sector 1 distress beacons are…maybe worth visiting. You have blue options from cloaking-1 (weak) and teleporter (okay).</p>
+<p>…and I lied again. It’s <a href="https://www.reddit.com/r/ftlgame/comments/al3bil/safely_destroying_auto_ships_with_a_medbay_on_the/">technically possible</a> to kill automated ships, with perfect timing. Make one tiny slip and you lose a Crystal though, so I don’t think the risk is worth the reward. It’s not like this ship needs the scrap.</p>
+		
+	</div>
+
+</div>
+
+<div id="ship">
+	<div>
+		<img class="base" src="/img/crystal-b/base.png"
+			alt="The ship with all systems installed"/>
+		
+		<img id="overlay" src="/img/crystal-b/empty.png" 
+		data-path="/img/crystal-b" alt=""/>
+		
+		<button class="hotspot" data-system="battery"></button>	
+		<button class="hotspot" data-system="cloak"></button>
+		<button class="hotspot" data-system="doors"></button>
+		<button class="hotspot" data-system="drones"></button>
+		<button class="hotspot" data-system="engines"></button>
+		<button class="hotspot" data-system="hack"></button>
+		<button class="hotspot" data-system="medbay"></button>
+		<button class="hotspot" data-system="mind"></button>
+		<button class="hotspot" data-system="oxygen"></button>
+		<button class="hotspot" data-system="pilot"></button>
+		<button class="hotspot" data-system="sensors"></button>
+		<button class="hotspot" data-system="shields"></button>
+		<button class="hotspot" data-system="teleport"></button>
+		<button class="hotspot" data-system="weapons"></button>
+
+		<p class="hack-explanation">Hover or tap systems to see hack points</p>
+	</div>
+</div>
+
+<p class="end-link"><a href="/">Back to the ships</a></p>
+
+<script src="/js/hack-points.js"></script>
+
+</body>
+</html>

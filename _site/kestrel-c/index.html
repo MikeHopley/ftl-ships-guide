@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Kestrel C</title>
+	<link rel="stylesheet" href="/css/main.css"/>
+	<link rel="stylesheet" href="/css/kestrel-c.css"/>
+	<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+	<link rel="preload" as="image" href="/img/kestrel-c/battery.png"/>
+	<link rel="preload" as="image" href="/img/kestrel-c/cloak.png"/>
+	<link rel="preload" as="image" href="/img/kestrel-c/doors.png"/>
+	<link rel="preload" as="image" href="/img/kestrel-c/drones.png"/>
+	<link rel="preload" as="image" href="/img/kestrel-c/engines.png"/>
+	<link rel="preload" as="image" href="/img/kestrel-c/hack.png"/>
+	<link rel="preload" as="image" href="/img/kestrel-c/medbay.png"/>
+	<link rel="preload" as="image" href="/img/kestrel-c/mind.png"/>
+	<link rel="preload" as="image" href="/img/kestrel-c/oxygen.png"/>
+	<link rel="preload" as="image" href="/img/kestrel-c/pilot.png"/>
+	<link rel="preload" as="image" href="/img/kestrel-c/sensors.png"/>
+	<link rel="preload" as="image" href="/img/kestrel-c/shields.png"/>
+	<link rel="preload" as="image" href="/img/kestrel-c/teleport.png"/>
+	<link rel="preload" as="image" href="/img/kestrel-c/weapons.png"/>
+	<link rel="preload" as="image" href="/img/kestrel-c/empty.png"/>
+	<link rel="preload" as="image" href="/img/kestrel-c/artillery.png"/>
+</head>
+<body>
+
+<div class="content-wrapper">
+
+	<p class="guide"><a href="/">FTL ships guide</a> > Kestrel C</p>
+
+	<div class="title">
+		<div>
+			<h1>Kestrel C</h1>
+			<p class="subtitle">The Swallow</p>
+		</div>
+		<img src="/img/kestrel-c/scaled.png" alt=""/>
+	</div>
+	<div class="flow content">
+		<p>Treat it as a weaker Lanius A (no hacking) or Kestrel A (weaker weapons).</p>
+<p>You have little to sell, and a single hit to weapons makes your offence very weak. Almost always rush shields and then look for a weapon. Rushing shields also means more chances for early crew kills.</p>
+<p>Dual Lasers are fantastic on a 4-slot ship. The Ion Stunner can help you get crew kills: destroy O2, then stun the crew repairing it.</p>
+<p>Typcially you’ll wait a moment for the Ion Stunner to (nearly) reach shields, then fire the Dual Lasers at weapons. But against some enemy weapons, it’s better to fire immediately. If all shots hit, the Dual Lasers will take down one weapon, and the ion will disable the second (even a two-power weapon).</p>
+<p>Put the Lanius on piloting, to protect it from boarders and help with nearby venting. Pre-vent nearby rooms, then allow them to refill slightly: refilling makes it easier for other crew to distract your Lanius if they get mind-controlled.</p>
+<p>With a Lanius and clone bay, venting below 50% oxygen is reasonably safe. Consider doing this in the early game, to increase the chance that enemies target O2 instead of something that matters.</p>
+<p>You have three empty system slots to fill, so try to buy your first system a little earlier than usual.</p>
+<p>Sector 1 distress beacons are worth visiting. You have a clone bay and a good blue option from the Ion Stunner.</p>
+		
+	</div>
+
+</div>
+
+<div id="ship">
+	<div>
+		<img class="base" src="/img/kestrel-c/base.png"
+			alt="The ship with all systems installed"/>
+		
+		<img id="overlay" src="/img/kestrel-c/empty.png" 
+		data-path="/img/kestrel-c" alt=""/>
+		
+		<button class="hotspot" data-system="battery"></button>	
+		<button class="hotspot" data-system="cloak"></button>
+		<button class="hotspot" data-system="doors"></button>
+		<button class="hotspot" data-system="drones"></button>
+		<button class="hotspot" data-system="engines"></button>
+		<button class="hotspot" data-system="hack"></button>
+		<button class="hotspot" data-system="medbay"></button>
+		<button class="hotspot" data-system="mind"></button>
+		<button class="hotspot" data-system="oxygen"></button>
+		<button class="hotspot" data-system="pilot"></button>
+		<button class="hotspot" data-system="sensors"></button>
+		<button class="hotspot" data-system="shields"></button>
+		<button class="hotspot" data-system="teleport"></button>
+		<button class="hotspot" data-system="weapons"></button>
+
+		<p class="hack-explanation">Hover or tap systems to see hack points</p>
+	</div>
+</div>
+
+<p class="end-link"><a href="/">Back to the ships</a></p>
+
+<script src="/js/hack-points.js"></script>
+
+</body>
+</html>

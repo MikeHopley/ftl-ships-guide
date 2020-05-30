@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Federation C</title>
+	<link rel="stylesheet" href="/css/main.css"/>
+	<link rel="stylesheet" href="/css/federation-c.css"/>
+	<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+	<link rel="preload" as="image" href="/img/federation-c/battery.png"/>
+	<link rel="preload" as="image" href="/img/federation-c/cloak.png"/>
+	<link rel="preload" as="image" href="/img/federation-c/doors.png"/>
+	<link rel="preload" as="image" href="/img/federation-c/drones.png"/>
+	<link rel="preload" as="image" href="/img/federation-c/engines.png"/>
+	<link rel="preload" as="image" href="/img/federation-c/hack.png"/>
+	<link rel="preload" as="image" href="/img/federation-c/medbay.png"/>
+	<link rel="preload" as="image" href="/img/federation-c/mind.png"/>
+	<link rel="preload" as="image" href="/img/federation-c/oxygen.png"/>
+	<link rel="preload" as="image" href="/img/federation-c/pilot.png"/>
+	<link rel="preload" as="image" href="/img/federation-c/sensors.png"/>
+	<link rel="preload" as="image" href="/img/federation-c/shields.png"/>
+	<link rel="preload" as="image" href="/img/federation-c/teleport.png"/>
+	<link rel="preload" as="image" href="/img/federation-c/weapons.png"/>
+	<link rel="preload" as="image" href="/img/federation-c/empty.png"/>
+	<link rel="preload" as="image" href="/img/federation-c/artillery.png"/>
+</head>
+<body>
+
+<div class="content-wrapper">
+
+	<p class="guide"><a href="/">FTL ships guide</a> > Federation C</p>
+
+	<div class="title">
+		<div>
+			<h1>Federation C</h1>
+			<p class="subtitle">The Fregatidae</p>
+		</div>
+		<img src="/img/federation-c/scaled.png" alt=""/>
+	</div>
+	<div class="flow content">
+		<p>This ship starts vulnerable due to weak offence. Rush shields, then look for a weapon. A weapons buffer is also good, but I think the shield upgrades are safer. Get the weapons buffer when you can, but not if it might prevent you buying a weapon.</p>
+<p>Your Zoltan can <a href="https://www.youtube.com/watch?v=jpR3veZtlsc&amp;t=1m59s">power shields-3</a> against ion. Leto is weak but worth keeping unless you need the slot for something else. Dual Lasers are fantastic on a 4-slot ship; almost always keep them.</p>
+<p><a href="https://i.imgur.com/TpuD5BE.jpg">Defence drones cover this ship poorly</a>: shields and weapons are vulnerable. Avoid spending scrap on the artillery beam, unless everything else is set.</p>
+<p>Put the Slug in piloting, and the Zoltan in weapons: they can <a href="https://www.youtube.com/watch?v=jpR3veZtlsc&amp;t=52s">de-ionise shields</a> and steal power from mind control or hacking, which are slotted nearby (although cloaking slots next to engines). Consider starting the engines crew on doors; just remember to send them back!</p>
+<p>The layout is a little awkward, but you can still vent shields or weapons in under 3 seconds by using <strong>all</strong> airlocks and turning off O2.</p>
+<p>Enemies may start running away when your weapons or artillery hits them, so try to have the other damage source ready to fire immediately afterwards. Manage the power on your Artillery so that it fires at a good time.</p>
+<p>In sector 1, prefer unmarked beacons over distress. Your have weak blue options from the Slug and artillery.</p>
+		
+	</div>
+
+</div>
+
+<div id="ship">
+	<div>
+		<img class="base" src="/img/federation-c/base.png"
+			alt="The ship with all systems installed"/>
+		
+		<img id="overlay" src="/img/federation-c/empty.png" 
+		data-path="/img/federation-c" alt=""/>
+		
+		<button class="hotspot" data-system="battery"></button>	
+		<button class="hotspot" data-system="cloak"></button>
+		<button class="hotspot" data-system="doors"></button>
+		<button class="hotspot" data-system="drones"></button>
+		<button class="hotspot" data-system="engines"></button>
+		<button class="hotspot" data-system="hack"></button>
+		<button class="hotspot" data-system="medbay"></button>
+		<button class="hotspot" data-system="mind"></button>
+		<button class="hotspot" data-system="oxygen"></button>
+		<button class="hotspot" data-system="pilot"></button>
+		<button class="hotspot" data-system="sensors"></button>
+		<button class="hotspot" data-system="shields"></button>
+		<button class="hotspot" data-system="teleport"></button>
+		<button class="hotspot" data-system="weapons"></button>
+
+		<p class="hack-explanation">Hover or tap systems to see hack points</p>
+	</div>
+</div>
+
+<p class="end-link"><a href="/">Back to the ships</a></p>
+
+<script src="/js/hack-points.js"></script>
+
+</body>
+</html>

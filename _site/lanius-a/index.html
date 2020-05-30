@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Lanius A</title>
+	<link rel="stylesheet" href="/css/main.css"/>
+	<link rel="stylesheet" href="/css/lanius-a.css"/>
+	<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+	<link rel="preload" as="image" href="/img/lanius-a/battery.png"/>
+	<link rel="preload" as="image" href="/img/lanius-a/cloak.png"/>
+	<link rel="preload" as="image" href="/img/lanius-a/doors.png"/>
+	<link rel="preload" as="image" href="/img/lanius-a/drones.png"/>
+	<link rel="preload" as="image" href="/img/lanius-a/engines.png"/>
+	<link rel="preload" as="image" href="/img/lanius-a/hack.png"/>
+	<link rel="preload" as="image" href="/img/lanius-a/medbay.png"/>
+	<link rel="preload" as="image" href="/img/lanius-a/mind.png"/>
+	<link rel="preload" as="image" href="/img/lanius-a/oxygen.png"/>
+	<link rel="preload" as="image" href="/img/lanius-a/pilot.png"/>
+	<link rel="preload" as="image" href="/img/lanius-a/sensors.png"/>
+	<link rel="preload" as="image" href="/img/lanius-a/shields.png"/>
+	<link rel="preload" as="image" href="/img/lanius-a/teleport.png"/>
+	<link rel="preload" as="image" href="/img/lanius-a/weapons.png"/>
+	<link rel="preload" as="image" href="/img/lanius-a/empty.png"/>
+	<link rel="preload" as="image" href="/img/lanius-a/artillery.png"/>
+</head>
+<body>
+
+<div class="content-wrapper">
+
+	<p class="guide"><a href="/">FTL ships guide</a> > Lanius A</p>
+
+	<div class="title">
+		<div>
+			<h1>Lanius A</h1>
+			<p class="subtitle">Kruos</p>
+		</div>
+		<img src="/img/lanius-a/scaled.png" alt=""/>
+	</div>
+	<div class="flow content">
+		<p>Typically rush shields, then look for a weapon. Hacking gives a good amount of safety, however, and you have Emergency Respirators to sell. Sometimes it might be better to delay shield upgrades for an early store.</p>
+<p>Rushing shields reduces your reliance on hacking for safety, and gives more chances for safe crew kills. Early mind control can strengthen your crew-killing abilities. Remember you only have engines-1.</p>
+<p>You can put a Lanius on piloting, to protect it from boarders. However, I currently prefer the Human on piloting, since that makes it easier for the Lanius to help each other with nearby repairs.</p>
+<p>Despite slow weapons, you can still get the first shot by hacking enemy weapons. Use this liberally in sector 1 to reduce risk. You can fire the Ion Stunner immediately, and the shield will still be down for the lasers. But sometimes it’s be better to fire them together: if all shots hit, the ion will disable a second weapon (even a two-power weapon).</p>
+<p>Ion Stunner can help with crew kills. For example: destroy O2, then stun whoever repairs it. You can depower the Chain Laser after one shot to avoid damaging the hull; if done quickly, this won’t reset the chain. Sometimes you can stun them in the shields room instead, as they walk towards O2. Hacking O2 makes crew kills more reliable.</p>
+<p>Hacking often lets you farm crew skill early, by de-synchronising enemy weapons. For example, Heavy Laser + Basic Laser is completely harmless once hacked.</p>
+<p>If weapons are thin, buy a teleporter. Double Lanius make excellent boarders, especially with hacking. Hack and board weapons, luring out any weapons crew first. Your Lanius can break weapons with little interruption: with doors locked and oxygen drained, enemy crew will barely hinder them. Adding mind control makes this even stronger: now their weapons crew works for you, or you can use Lanius B distraction tactics followed up with the Ion Stunner. Nevertheless, prefer cloaking to mind control.</p>
+<p>Emergency Respirators have little use, but do help you vent more aggressively. Venting below 50% oxygen is easy on this ship, and increases the chance enemies will target O2 instead of something that matters. With two Lanius and a clone bay, you’re pretty safe doing this.</p>
+<p><a href="https://i.imgur.com/KaCw0ky.jpg">Defence drones cover this ship well</a>, as all rooms are well outside the blind spot.</p>
+<p>Hacking’s cooldown is reset when you jump.</p>
+<p>Sector 1 distress beacons are worth visiting. You have a clone bay and a good blue option from the Ion Stunner.</p>
+		
+	</div>
+
+</div>
+
+<div id="ship">
+	<div>
+		<img class="base" src="/img/lanius-a/base.png"
+			alt="The ship with all systems installed"/>
+		
+		<img id="overlay" src="/img/lanius-a/empty.png" 
+		data-path="/img/lanius-a" alt=""/>
+		
+		<button class="hotspot" data-system="battery"></button>	
+		<button class="hotspot" data-system="cloak"></button>
+		<button class="hotspot" data-system="doors"></button>
+		<button class="hotspot" data-system="drones"></button>
+		<button class="hotspot" data-system="engines"></button>
+		<button class="hotspot" data-system="hack"></button>
+		<button class="hotspot" data-system="medbay"></button>
+		<button class="hotspot" data-system="mind"></button>
+		<button class="hotspot" data-system="oxygen"></button>
+		<button class="hotspot" data-system="pilot"></button>
+		<button class="hotspot" data-system="sensors"></button>
+		<button class="hotspot" data-system="shields"></button>
+		<button class="hotspot" data-system="teleport"></button>
+		<button class="hotspot" data-system="weapons"></button>
+
+		<p class="hack-explanation">Hover or tap systems to see hack points</p>
+	</div>
+</div>
+
+<p class="end-link"><a href="/">Back to the ships</a></p>
+
+<script src="/js/hack-points.js"></script>
+
+</body>
+</html>
