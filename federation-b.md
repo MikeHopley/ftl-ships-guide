@@ -4,7 +4,11 @@ title: Federation B
 subtitle: Nisos
 ---
 
-This ship starts vulnerable due to weak offence. Rush shields, then look for a weapon. A weapons buffer is also good, but I think the shield upgrades are safer. Get the weapons buffer when you can, but not if it might prevent you buying a weapon.
+This ship starts vulnerable due to weak offence. Enemies may escape and double the fleet pursuit, so plan your jumps with this in mind.
+
+Typically rush shields, then look for a weapon. A weapons buffer is also good, but I think the shield upgrades are safer. Get the weapons buffer when you can, but not if it might prevent you buying a weapon.
+
+If you have a convenient store, and especially with stuff to sell, it might sometimes be worth delaying shields. You could potentially buy a 1-power weapon and upgrade weapons next.
 
 Your Zoltan can [power shields-3](https://www.youtube.com/watch?v=jpR3veZtlsc&t=1m59s) against ion. Leto is weak but worth keeping unless you need the slot for something else. Dual Lasers are fantastic on a 4-slot ship; almost always keep them.
 
