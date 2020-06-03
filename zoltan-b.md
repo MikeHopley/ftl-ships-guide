@@ -14,7 +14,7 @@ Before shields-2, consider avoiding nebula beacons, as they often have Auto-assa
 
 Use your weapons optimally against enemies with one shield. You can fire both ions immediately at weapons (or drones), and the Pike Beam will still do full damage before the shield comes up. On the second volley, you can sneak at least one ion inside the shield: micromanage them so both fire from the third weapon slot initially (giving a longer travel time), then bring them forwards for the second volley (be careful though: with a Zoltan in the room, weapons depower as you move them!).
 
-When enemies have one shield and cannot harm you, try ionising O2 for a crew kill. You can also use the Pike Beam [as an Anti-bio Beam](https://www.reddit.com/r/ftlgame/comments/72lds2/every_beam_can_be_an_antibio_beam/), but the timing is quite difficult.
+When enemies have one shield and cannot harm you, try ionising O2 for a crew kill. You can also use the Pike Beam [as an Anti-bio Beam](https://www.youtube.com/watch?v=Kf2BSXqtbmg), but the timing is quite difficult.
 
 This ship is somewhat vulnerable to boarding. Start the engines Zoltan on doors (due to event boarding). Additional crew help, and the first gives one free power by replacing the pilot. If doors get boarded, you can vent them out and then reoccupy it. Consider pre-venting the three empty rooms to the right of doors (and then letting oxygen refill a bit).
 
