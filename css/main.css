@@ -161,6 +161,9 @@ table .align-right {
 .flow *+h1, .flow *+h2, .flow *+h3 {
 	margin-top: 2em;
 }
+.flow h2 + h3 {
+	margin-top: 1em;
+}
 .flow li+li {
 	margin-top: 0;
 }

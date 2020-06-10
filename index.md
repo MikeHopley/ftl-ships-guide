@@ -30,7 +30,7 @@ My perspective here is wanting to win consistently on Hard, but most advice appl
 
 ## Play the early game well
 
-To win consistently, you must play as “safely” as possible and get through the dangerous early game in good shape. To be “safe”, you need two things ASAP:
+To win consistently, you must play as “safely” as possible and get through the dangerous early game in good shape. To be “safe”, you need two things as soon as possible:
 
 * Two shields
 * Offence that works well against two-shield enemies

@@ -4,13 +4,41 @@ title: Stealth B
 subtitle: DA-SR 12
 ---
 
-Put the Zoltan on engines. They can steal power from cloaking.
+## Avoiding and recovering from disasters
 
-Plan your jumps carefully, to avoid being forced into asteroid fields. Suns and pulsars are also very bad. Try to avoid nebulas too, as they disable your sensors and often contain Auto-ships.
+Plan your jumps carefully, to avoid being forced into asteroid fields. Suns and pulsars are also very bad. Try to avoid nebulas too, as they disable your sensors (see below) and often contain Auto-ships.
 
 Look for flexible routes, so you can skip these hazards without losing beacons. Try to plan a route that lets you retreat to a previous beacon. This gives you a safe place to recover after a disaster. Also plan around doubled fleet pursuit.
 
+Sector 1 distress beacons are worth visiting, but guaranteed fights are better. You have blue options from cloaking (okay, good once upgraded) and the Glaive Beam (weak). Note that Long-Ranged Scanners effectively decrease the value of unmarked beacons.
+
+If your weapons *do* get hit, don’t just rush all your crew to repair them. Keep the FTL charging, and also try to repair cloaking. The correct repair priorities are very difficult to judge, and depend on the situation. If you jump away with critical systems damaged, jump to a known safe beacon.
+
+### When to skip fights
+
+Some events let you “preview” a ship before you choose to fight it. Which fights should you take?
+
+A hyper-cautious approach would avoid all fights with drones, at least before you get cloaking-3. This is safest in the short term, but you risk falling too far behind. You must evaluate each fight, but here are some guidelines:
+
+Take fights against Rebel Riggers more willingly than against Auto-assaults. Auto-assaults always have offensive drones, but Riggers may have defensive ones instead. Beware Rebel Disruptors though, as they can have both drones and hacking!
+
+Don’t just consider the drones, but also the weapons. An Auto-assault with a Heavy Laser and a Mini Beam is incredibly dangerous. The same ship with an Ion Blast and a Basic Laser is much less threatening, despite the drones. The most dangerous weapon is a Mini Beam.
+
+If a scary-looking pirate is [offering you a bribe](https://ftl.fandom.com/wiki/Pirate_Bribing_You_for_Unknown_Ship), probably just take it. Fighting only gives a 40% chance of getting an additional scrap reward, though there’s also a chance of 15 hull repair.
+
+Consider the event reward. An Auto-assault guarding a [storage cache](https://ftl.fandom.com/wiki/Rebel_Automated_Ship_Near_Storage_Vessel) is worth more than one guarding a [sensor station](https://ftl.fandom.com/wiki/Rebel_Automated_Ship_Near_Sensor_Station), which is worth more than one [that’s deactivated](https://ftl.fandom.com/wiki/De-Activated_Rebel_Automated_Scout).
+
+Watch out for *Pirate* Mantis Interceptors, because you can’t hit both shields and weapons.
+
+## Basic combat
+
+Put the Zoltan on engines. They can steal power from cloaking.
+
 Usually start the Glaive in shields, for maximum damage. Sometimes it’s better to start in weapons or drones; for example, a manned Heavy Laser may fire before your Glaive finishes. Against Zoltan Shields, use [exact beam placement](https://www.youtube.com/watch?v=oJ8uLSidl7o) to damage weapons.
+
+Later on, with fully-trained weapons crew, you do not need to delay firing the Glaive against enemies with cloaking: it can hit them exactly as they enter cloak. Practise your weapons or hacking timing against non-cloaking enemies. Similarly, a pre-ignited Glaive can fire immediately against cloaking enemies (notably shieldless Auto-scouts).
+
+## Upgrade strategy
 
 The ideal upgrade path is:
 
@@ -29,11 +57,21 @@ If hacking is not offered, generally buy shields. Buying shields significantly i
 
 The most difficult choice is between shields and a weapon. Usually take shields. Even a Burst Laser 2 is somewhat risky without shields, because unlike hacking it can miss. Shields make you a lot safer, especially once upgraded&thinsp;&mdash;&thinsp;but that’s another 50 scrap into defence that won’t help you kill 3-shield enemies in sector 4.
 
-2-power weapons are very expensive to get online (165 scrap for weapons-6 and power), so generally prefer 1-power weapons. An Ion Blast 1 is especially good, because it’s cheap. Spending less scrap on weapons gives you a better chance to switch into hacking later.
+2-power weapons are very expensive to get online (165 scrap for weapons-6 and power), so prefer 1-power weapons. Spending less scrap on weapons gives you a better chance to switch into hacking later.
 
 Also consider replacing the Glaive with another weapon that you can get online sooner; ideally still keep the Glaive for later, but sell it if necessary. For example, something like Flak 1 + Hull Laser 1 requires no upgrades and can last a long time.
 
 At intervals, consider buying a weapons buffer. Early on there are more important uses of scrap. However, if you pick up a two-power weapon, it may be worth buying the buffer while you wait.
+
+## Specific weapon tactics
+
+Correctly timed, a Heavy Laser can take down two shield layers. The Glaive needs to damage shields just before the laser connects. This won’t work when the enemy has a shield buffer (shields-5).
+
+The same applies for Ion Blast or Ion Stunner. These are even better, as you can fire them ahead of time for a second chance to hit. An Ion Blast can even drop unbuffered three-shield enemies down to one shield if both shots connect.
+
+With full weapons training and a third weapon, an Ion Stunner can do the same. Fire it from the back, then bring it forwards for the second shot. A Reloader also works.
+
+## Dealing with drones
 
 Protect your weapons by checking where combat drones are aiming before you cloak. Only cloak if they are about to hit weapons, cloaking, or possibly sensors. Otherwise, delay your cloak until enemy weapons fire. Even then, wait to see whether weapons are targeting anything important. Ideally you’ll let them hit irrelevant rooms, to reduce the chance of the drone sniping your Glaive when cloak ends.
 
@@ -56,16 +94,6 @@ It’s also worth knowing how fast they attack, to help decide when to cloak. On
 * Beam 1 attacks every 3.6 seconds
 * Beam 2 attacks every 4.4 seconds
 
-Mini Beam into cloaking has a 40% chance to drag into weapons. Cloaking is less likely to be targeted when on cooldown, so you should pre-cloak the Mini Beam (unless perhaps that stops you cloaking another weapon). This also gives the best chance of running away.
-
-If your weapons *do* get hit, don’t just rush all your crew to repair them. Keep the FTL charging, and also try to repair cloaking. The correct repair priorities are very difficult to judge, and depend on the situation. If you jump away with critical systems damaged, jump to a known safe beacon.
-
-Later on, with fully-trained weapons crew, you do not need to delay firing the Glaive against enemies with cloaking: it can hit them exactly as they enter cloak. Practise your weapons or hacking timing against non-cloaking enemies. Similarly, a pre-ignited Glaive can fire immediately against cloaking enemies (notably shieldless auto-scouts).
-
-Watch out for *Pirate* Mantis Interceptors, because you can’t hit both shields and weapons. Consider this when a fight is optional.
-
-Sector 1 distress beacons are worth visiting, but guaranteed fights are better. You have blue options from cloaking (okay, good once upgraded) and the Glaive Beam (weak). Note that Long-Ranged Scanners effectively decrease the value of unmarked beacons.
-
 ## Hard-mode trickery
 
 On Hard specifically, enemy targeting can be manipulated to reduce the chance that your weapons or cloaking get hit.
@@ -84,12 +112,26 @@ Wait to see where enemy hacks land before venting. Get your weapons crew near a 
 
 Consider walking your engines Zoltan around the ship for timing the sensors dash. You can use my [Zoltan treadmill](https://mikehopley.github.io/zoltan-treadmill/) for accurate timing.
 
-It’s even possible to time enemy weapons purely with crew movement and weapon animation (and this can potentially be used by *any* ship). This means you can continue using the trick when sensors don’t work, such as in a nebula. It means you can let beam drones hit your sensors without cloaking.
-
-In most cases this will charge your Glaive slightly faster too. This can sometimes matter more than you might expect. [For example](https://www.youtube.com/watch?v=OBwB5uSMNpM), an unmanned Small Bomb will explode just *after* your Glaive finishes firing.
+It’s even possible to time enemy weapons purely with crew movement and weapon animation (and this can potentially be used by *any* ship). You can use this when sensors don’t work, such as in a nebula, and you can let drones hit your sensors. It also charges your Glaive slightly faster, which might be relevant against drones or specific weapons.
 
 Use crew movement to time the weapon charge and de-power, wait for the weapon to “go green”, then re-power on the *next* animation frame. For missiles and bombs, listen for the firing sound.
 
 When you don’t know the type of missile, de-power and wait a few frames to see if it turns green. Bombs are easy: they start animating before charge resets. Flak doesn’t have a “green” frame; just re-power on the first animation.
 
-Occasionally, it might be better to station the Zoltan in sensors, for the absolute minimum loss of charge time. For example, consider an Ion Blast and Burst Laser 2. With **minimal** interruption, a manned Glaive will usually *start* firing before an *unmanned* Burst 2 shot lands. This gives you the option of cloaking the ion if it’s heading into weapons or cloaking. The same approach could also work against unmanned Heavy Laser + Burst 2, when the enemy weapons room is directly next to their shields.
+## Tactics for specific enemy weapons
+
+### Small Bomb
+
+For an *unmanned* Small Bomb together with a faster weapon, [use the Zoltan Treadmill](https://www.youtube.com/watch?v=OBwB5uSMNpM). With perfect timing, your Glaive will finish firing before the bomb explodes.
+
+### Mini Beam
+
+Mini Beam into cloaking has a 40% chance to drag into weapons. Cloaking is less likely to be targeted when on cooldown, so you should pre-cloak the Mini Beam. This also gives the best chance of running away.
+
+### Burst Laser 2
+
+A *manned* BL2 is terrifying, because it gets three chances to hit your weapons. Cloak it if possible, and toggle the Glaive for both enemy weapons.
+
+An *unmanned* BL2 is different. Cloak *before* the BL2 fires, and *do not* toggle your Glaive at all. The Glaive will finish firing before the BL2 lands a shot.
+
+Even if the other weapon is an Ion Blast hitting an empty room, it’s still correct to pre-cloak the BL2. Eating 3 hull damage is better than risking your weapons getting hit.
