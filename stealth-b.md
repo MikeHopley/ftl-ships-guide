@@ -14,7 +14,7 @@ Sector 1 distress beacons are worth visiting, but guaranteed fights are better. 
 
 If your weapons *do* get hit, don’t just rush all your crew to repair them. Keep the FTL charging, and also try to repair cloaking. The correct repair priorities are very difficult to judge, and depend on the situation. If you jump away with critical systems damaged, jump to a known safe beacon.
 
-### When to skip fights
+## When to skip fights
 
 Some events let you “preview” a ship before you choose to fight it. Which fights should you take?
 
