@@ -122,7 +122,7 @@ When you don’t know the type of missile, de-power and wait a few frames to see
 
 All these tactics assume you’re playing on Hard and using the advanced tricks described above. With that as a baseline, we can make more specific analyses.
 
-**This section is a work in progress. Some recommendations might change. It’s extremely complicated and makes my head hurt.**
+***This section is a work in progress. It’s extremely complicated and makes my head hurt.***
 
 ### Small Bomb (unmanned)
 
@@ -144,18 +144,19 @@ So toggling the Glaive makes the Heavy Laser microscopically less dangerous, whi
 
 What about Ion Stunner? Toggle, and cloak both weapons together. Although this gives an extra 3 chances to target your weapons, it also means hits to cloaking are not a threat. The overall chance works out around 5.2% to hit weapons, which is marginally safer while also saving hull.
 
-What about Leto missile or Basic Laser? You cannot cloak both weapons, but you can allow hits to cloaking. Currently I think toggling weapons and cloaking the BL2 is best, but some calculations are needed!
+What about Leto missile or Basic Laser? You cannot cloak both weapons, but you can allow hits to cloaking. Currently I think toggling weapons and cloaking the BL2 is best. ***But I need to calculate this.***
 
 What about Mini Beam? Toggle weapons and cloak the BL2. Pre-cloaking takes cloaking off the priority list and raises the chance of the Mini-Beam directly hitting weapons from 6.5% to 20%.
 
-### Unmanned Burst Laser 2 summary
+What about a Small Bomb? Pre-cloak without toggling, and you finish firing before either weapon can hit.
 
-<div class="flexi-table"></div>
+### Unmanned Burst Laser 2 summary
 
 | Weapon  | Tactic |
 | ------- | ------ |
 | Heavy Laser | Don’t toggle, cloak the Heavy Laser. |
 | Ion Blast | Don’t toggle, cloak the ion. |
+| Small Bomb | Don’t toggle, pre-cloak |
 | Ion Stunner | Toggle, cloak everything. |
 | Leto | Toggle, cloak BL2 unless Leto targets weapons. |
 | Basic Laser | Toggle, cloak BL2 unless Basic Laser targets weapons. |
