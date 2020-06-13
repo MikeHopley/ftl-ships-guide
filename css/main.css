@@ -126,7 +126,6 @@ button:focus {
 	Tables
 ==================================*/
 table {
-	table-layout: fixed;
 	width: 100%;
 	white-space: nowrap;
 	border-collapse: collapse;
