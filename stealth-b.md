@@ -1,5 +1,5 @@
 ---
-layout: ship
+layout: ship_no-hack
 title: Stealth B
 subtitle: DA-SR 12
 ---
@@ -152,7 +152,7 @@ What about a Small Bomb? Pre-cloak without toggling, and you finish firing befor
 
 ### Unmanned Burst Laser 2 summary
 
-| Weapon  | Tactic |
+| | |
 | ------- | ------ |
 | Heavy Laser | Don’t toggle, cloak the Heavy Laser. |
 | Ion Blast | Don’t toggle, cloak the ion. |

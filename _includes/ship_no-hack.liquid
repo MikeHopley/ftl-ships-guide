@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<meta name="description" content="FTL strategy and tactics for playing the {{ title }}"/>
+	<title>{{ title }} | FTL ships guide</title>
+	<link rel="stylesheet" href="/css/main.css"/>
+	<link rel="stylesheet" href="/css/{{ title | slug }}.css"/>
+	<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet"/>
+	<link rel="preload" as="image" href="/img/{{ title | slug }}/battery.png"/>
+	<link rel="preload" as="image" href="/img/{{ title | slug }}/cloak.png"/>
+	<link rel="preload" as="image" href="/img/{{ title | slug }}/doors.png"/>
+	<link rel="preload" as="image" href="/img/{{ title | slug }}/drones.png"/>
+	<link rel="preload" as="image" href="/img/{{ title | slug }}/engines.png"/>
+	<link rel="preload" as="image" href="/img/{{ title | slug }}/hack.png"/>
+	<link rel="preload" as="image" href="/img/{{ title | slug }}/medbay.png"/>
+	<link rel="preload" as="image" href="/img/{{ title | slug }}/mind.png"/>
+	<link rel="preload" as="image" href="/img/{{ title | slug }}/oxygen.png"/>
+	<link rel="preload" as="image" href="/img/{{ title | slug }}/pilot.png"/>
+	<link rel="preload" as="image" href="/img/{{ title | slug }}/sensors.png"/>
+	<link rel="preload" as="image" href="/img/{{ title | slug }}/shields.png"/>
+	<link rel="preload" as="image" href="/img/{{ title | slug }}/teleport.png"/>
+	<link rel="preload" as="image" href="/img/{{ title | slug }}/weapons.png"/>
+	<link rel="preload" as="image" href="/img/{{ title | slug }}/empty.png"/>
+	<link rel="preload" as="image" href="/img/{{ title | slug }}/artillery.png"/>
+</head>
+<body>
+
+<div class="content-wrapper">
+
+	<p class="guide"><a href="/">FTL ships guide</a> > {{ title }}</p>
+
+	<div class="title">
+		<div>
+			<h1>{{ title }}</h1>
+			<p class="subtitle">{{ subtitle }}</p>
+		</div>
+		<img src="/img/{{ title | slug }}/scaled.png" alt=""/>
+	</div>
+	<div class="flow content">
+		{{ content }}		
+	</div>
+
+</div>
+
+<br>
+<p class="end-link"><a href="/">Back to the ships</a></p>
+
+</div>
+
+
+<script src="/js/hack-points.js"></script>
+
+</body>
+</html>

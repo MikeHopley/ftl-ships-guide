@@ -1,5 +1,5 @@
 ---
-layout: ship
+layout: ship_no-hack
 title: Stealth A
 subtitle: The Nesasio
 ---

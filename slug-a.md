@@ -1,5 +1,5 @@
 ---
-layout: ship
+layout: ship_no-hack
 title: Slug A
 subtitle: Man of War
 ---

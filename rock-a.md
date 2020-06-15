@@ -1,5 +1,5 @@
 ---
-layout: ship
+layout: ship_no-hack
 title: Rock A
 subtitle: Bulwark
 ---

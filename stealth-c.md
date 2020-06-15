@@ -1,5 +1,5 @@
 ---
-layout: ship
+layout: ship_no-hack
 title: Stealth C
 subtitle: Simo-H
 ---

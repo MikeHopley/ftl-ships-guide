@@ -1,5 +1,5 @@
 ---
-layout: ship
+layout: ship_no-hack
 title: Mantis A
 subtitle: The Gila Monster
 ---
