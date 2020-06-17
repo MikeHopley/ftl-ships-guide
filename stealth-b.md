@@ -122,11 +122,9 @@ When you don’t know the type of missile, de-power and wait a few frames to see
 
 All these tactics assume you’re playing on Hard and using the advanced tricks described above. With that as a baseline, we can make more specific analyses.
 
-***This section is a work in progress. It’s extremely complicated and makes my head hurt.***
-
 ### Small Bomb (unmanned)
 
-For an *unmanned* Small Bomb together with a faster weapon, [use the Zoltan Treadmill](https://www.youtube.com/watch?v=OBwB5uSMNpM). With perfect timing, your Glaive will finish firing before the bomb explodes.
+For an *unmanned* Small Bomb together with a faster weapon, [use the Zoltan Treadmill](https://www.youtube.com/watch?v=OBwB5uSMNpM). Your Glaive will finish firing before the bomb explodes.
 
 ### Mini Beam
 
@@ -138,26 +136,14 @@ Now it gets complicated.
 
 *With no interruptions*, your Glaive finishes firing before an unmanned BL2 hits. However, toggling the Glaive usually lets the BL2 hit before you can fire, or at least before you can *finish* firing.
 
-Consider BL2 + Heavy Laser. The Heavy Laser forces cloaking if it heads towards *either* weapons or cloaking. Toggling the Glaive has almost no benefit here, because you protect weapons at the expense of cloaking. Toggling only drops the chance that *either* system is hit from 5.9% to 5.1%.
+Consider BL2 + Heavy Laser. The Heavy Laser forces cloaking if it heads towards *either* weapons or cloaking. Toggling has little benefit here, since you protect weapons at the expense of cloaking; it only drops the chance that *either* system is hit from 5.9% to 5.1%.
 
-So toggling the Glaive makes the Heavy Laser microscopically less dangerous, while making the BL2 much more dangerous. It’s better not to toggle, and make the BL2 safe. The same logic applies to Ion Blast + BL2.
+So toggling makes the Heavy Laser microscopically less dangerous, while making the BL2 much more dangerous. It’s better not to toggle, and make the BL2 safe. The same logic applies to Ion Blast + BL2.
 
-What about Ion Stunner? Toggle, and cloak both weapons together. Although this gives an extra 3 chances to target your weapons, it also means hits to cloaking are not a threat. The overall chance works out around 5.2% to hit weapons, which is marginally safer while also saving hull.
+What about a Basic Laser or Leto? Cloak the fast weapon without toggling. That gives a slightly lower chance of failure, even ignoring complications like piloting hits or double hits to cloaking.
 
-What about Leto missile or Basic Laser? You cannot cloak both weapons, but you can allow hits to cloaking. Currently I think toggling weapons and cloaking the BL2 is best. ***But I need to calculate this.***
+What about Ion Stunner? Toggle, and cloak both weapons together. The chance of failure is marginally lower, and you also save hull.
 
-What about Mini Beam? Toggle weapons and cloak the BL2. Pre-cloaking takes cloaking off the priority list and raises the chance of the Mini-Beam directly hitting weapons from 6.5% to 20%.
+What about Mini Beam? Definitely toggle weapons and cloak the BL2. Pre-cloaking (without a toggle) takes cloaking off the priority list and raises the chance of the Mini-Beam directly hitting weapons from 6.5% to 20%.
 
 What about a Small Bomb? Pre-cloak without toggling, and you finish firing before either weapon can hit.
-
-### Unmanned Burst Laser 2 summary
-
-| | |
-| ------- | ------ |
-| Heavy Laser | Don’t toggle, cloak the Heavy Laser. |
-| Ion Blast | Don’t toggle, cloak the ion. |
-| Small Bomb | Don’t toggle, pre-cloak |
-| Ion Stunner | Toggle, cloak everything. |
-| Leto | Toggle, cloak BL2 unless Leto targets weapons. |
-| Basic Laser | Toggle, cloak BL2 unless Basic Laser targets weapons. |
-| Mini Beam | Toggle, cloak BL2. |
