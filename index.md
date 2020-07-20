@@ -79,7 +79,23 @@ When a ship has more stuff to sell, visiting early stores is more worthwhile and
 Beware greed. If you’re only in the market for top-tier weapons, it’s probably incorrect to delay shield upgrades. A good question to ask yourself might be, “if an early store had a Chain Laser, would I buy it?”
 
 
-### Other strategies
+## Other strategies
+
+### Weapons buffer
+
+Consider Kestrel C, Federation A and B, and Slug C. These ships start with both shields and weapons-2. They also can have trouble with enemies getting away. This presents an interesting choice: do you spend 25 scrap upgrading weapons before shields?
+
+It’s hard to be sure what is correct, but I *think* the shield upgrades are safer overall. I could easily be wrong about this!
+
+Weapons-3 plays a similar role to shields-3, with a few differences. A weapons buffer helps stop enemies getting away, but a shields buffer makes run-ending disasters less likely.
+
+The other big difference is what they prepare you for. Shields-3 leads directly into shields-4. Weapons-3 *potentially* lets you use another weapon, but only when you find or buy one.
+
+In sectors 1 and 2, I generally want shields more than I want another weapon *online*. The weapon is mostly for sector 3. Opening with the weapons buffer leads me into a shields buffer, and then into shields-4. That’s 75 scrap spent on safety before I start saving for a weapon.
+
+This analysis could change if you actually find (or buy) a 1-power weapon early, because then you *know* that buying the buffer gets a weapon online immediately. For example, say Kestrel C finds an early Heavy Laser. In that case, upgrading weapons before shields probably makes sense.
+
+### Minor upgrades
 
 Engines-2 and engines-3 are useful and cheap. Fit them in when you can, but do not let them delay shield upgrades or stop you buying an important weapon. At 15 scrap, engines-3 competes with shields-3, and I think shields-3 is almost strictly better.
 
@@ -90,7 +106,7 @@ Piloting-2 can be tempting when you’re visiting nebula beacons without a clone
 Never waste early-game scrap on luxury purchases like medbay-2, doors-2, or Scrap Recovery Arm.
 
 
-### Exceptions
+## Exceptions
 
 The Stealth cruisers have no shield system at all, and Zoltan B only has shields-1. Mantis B starts with shields-4.
 

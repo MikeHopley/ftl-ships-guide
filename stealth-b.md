@@ -28,13 +28,13 @@ If a scary-looking pirate is [offering you a bribe](https://ftl.fandom.com/wiki/
 
 Consider the event reward. An Auto-assault guarding a [storage cache](https://ftl.fandom.com/wiki/Rebel_Automated_Ship_Near_Storage_Vessel) is worth more than one guarding a [sensor station](https://ftl.fandom.com/wiki/Rebel_Automated_Ship_Near_Sensor_Station), which is worth more than one [that’s deactivated](https://ftl.fandom.com/wiki/De-Activated_Rebel_Automated_Scout).
 
-Watch out for *Pirate* Mantis Interceptors, because you can’t hit both shields and weapons.
+Watch out for *Pirate* Mantis Scouts and Interceptors, because you can’t hit both shields and weapons.
 
 ## Basic combat
 
 Put the Zoltan on engines. They can steal power from cloaking.
 
-Usually start the Glaive in shields, for maximum damage. Sometimes it’s better to start in weapons or drones; for example, a manned Heavy Laser may fire before your Glaive finishes. Against Zoltan Shields, use [exact beam placement](https://www.youtube.com/watch?v=oJ8uLSidl7o) to damage weapons.
+Usually start the Glaive in shields, for maximum damage. Sometimes it’s better to start in weapons or drones; for example, a manned Heavy Laser will fire before your Glaive finishes. Against Zoltan Shields, use [exact beam placement](https://www.youtube.com/watch?v=oJ8uLSidl7o) to damage weapons.
 
 Later on, with fully-trained weapons crew, you do not need to delay firing the Glaive against enemies with cloaking: it can hit them exactly as they enter cloak. Practise your weapons or hacking timing against non-cloaking enemies. Similarly, a pre-ignited Glaive can fire immediately against cloaking enemies (notably shieldless Auto-scouts).
 
@@ -48,7 +48,9 @@ The ideal upgrade path is:
 
 Spend your first 50 scrap on cloaking-3. This lets you kill most enemies before they can fire, by cloaking first. The Glaive falls off hard against 2 shields, so try to get extra offence before sector 3. Hacking is by far the best option.
 
-If hacking is not offered, generally buy shields. Buying shields significantly increases your chance to find hacking later. Also consider buying backup battery. If the next store is selling systems, its chance to sell hacking is *approximately*:
+If a large reward takes you well over 50 scrap, an interesting transposition may be possible. You could jump to an adjacent store and buy hacking first, and cloaking-3 afterwards. With a few drones, hacking serves as both immediate defence and long-term security. If hacking is not available, this might instead be an opportunity to buy a cheap weapon, or perhaps backup battery.
+
+If hacking is not offered, generally buy shields at the first opportunity. Buying shields significantly increases your chance to find hacking later. Also consider buying backup battery. If the next store is selling systems, its chance to sell hacking is *approximately*:
 
 * 33% if you bought no systems
 * 40% if you have backup battery
@@ -57,7 +59,7 @@ If hacking is not offered, generally buy shields. Buying shields significantly i
 
 The most difficult choice is between shields and a weapon. Usually take shields. Even a Burst Laser 2 is somewhat risky without shields, because unlike hacking it can miss. Shields make you a lot safer, especially once upgraded&thinsp;&mdash;&thinsp;but that’s another 50 scrap into defence that won’t help you kill 3-shield enemies in sector 4.
 
-2-power weapons are very expensive to get online (165 scrap for weapons-6 and power), so prefer 1-power weapons. Spending less scrap on weapons gives you a better chance to switch into hacking later.
+2-power weapons are very expensive to get online (165 scrap for weapons-6 and power), so prefer 1-power weapons. Spending less scrap on weapons gives you a better chance to switch into hacking later, or just upgrade your shields sooner.
 
 Also consider replacing the Glaive with another weapon that you can get online sooner; ideally still keep the Glaive for later, but sell it if necessary. For example, something like Flak 1 + Hull Laser 1 requires no upgrades and can last a long time.
 

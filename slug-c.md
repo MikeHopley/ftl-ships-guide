@@ -4,7 +4,7 @@ title: Slug C
 subtitle: Ariolimax
 ---
 
-Rush shields, then look for a weapon. A weapons buffer is also good, but I think the shield upgrades are safer overall. Get the weapons buffer when you can, but not if it might prevent you buying a weapon.
+Rush shields, then look for a weapon. A weapons buffer is also good, but I think the shield upgrades are safer overall ([explanation](/#weapons-buffer)). Get the weapons buffer when you can, but not if it might prevent you buying a weapon.
 
 Rushing shields gives you more opportunities for safe crew kills. Mind control can often get the job done by itself (with lasers to finish them off). Otherwise hack oxygen. You can de-power the Chain Laser to fire a single shot, and it will keep its chain progress if you are quick enough.
 
