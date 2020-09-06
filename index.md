@@ -81,9 +81,11 @@ Beware greed. If you’re only in the market for top-tier weapons, it’s probab
 
 ## Other strategies
 
-### Weapons buffer
+<h3 id="weapons-buffer">Weapons buffer</h3>
 
-Consider Kestrel C, Federation A and B, and Slug C. These ships start with both shields and weapons-2. They also can have trouble with enemies getting away. This presents an interesting choice: do you spend 25 scrap upgrading weapons before shields?
+Consider Kestrel C, Federation A and B, and Slug C. These ships start with both shields and weapons-2. They also can have trouble with enemies getting away.
+
+This presents a choice: do you spend 25 scrap upgrading weapons before shields?
 
 It’s hard to be sure what is correct, but I *think* the shield upgrades are safer overall. I could easily be wrong about this!
 
@@ -93,7 +95,7 @@ The other big difference is what they prepare you for. Shields-3 leads directly 
 
 In sectors 1 and 2, I generally want shields more than I want another weapon *online*. The weapon is mostly for sector 3. Opening with the weapons buffer leads me into a shields buffer, and then into shields-4. That’s 75 scrap spent on safety before I start saving for a weapon.
 
-This analysis could change if you actually find (or buy) a 1-power weapon early, because then you *know* that buying the buffer gets a weapon online immediately. For example, say Kestrel C finds an early Heavy Laser. In that case, upgrading weapons before shields probably makes sense.
+This evaluation could change if you find (or buy) a 1-power weapon early, because then you *know* that buying the buffer gets a weapon online immediately. For example, say Kestrel C finds an early Heavy Laser. In that case, upgrading weapons before shields probably makes sense.
 
 ### Minor upgrades
 

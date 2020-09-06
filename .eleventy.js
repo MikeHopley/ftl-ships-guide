@@ -2,7 +2,7 @@
 // const markdownItAnchor = require("markdown-it-anchor");
 
 module.exports = function(eleventyConfig) {
-	 /* Markdown Overrides */
+/* Markdown Overrides */
   // let markdownLibrary = markdownIt({
   //   html: true,
   //   breaks: true,
