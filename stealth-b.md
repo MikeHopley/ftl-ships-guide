@@ -22,7 +22,7 @@ A hyper-cautious approach would avoid all fights with drones, at least before yo
 
 Take fights against Rebel Riggers more willingly than against Auto-assaults. Auto-assaults always have offensive drones, but Riggers may have defensive ones instead. Beware Rebel Disruptors though, as they can have both drones and hacking!
 
-Don’t just consider the drones, but also the weapons. An Auto-assault with a Heavy Laser and a Mini Beam is incredibly dangerous. The same ship with an Ion Blast and a Basic Laser is much less threatening, despite the drones. The most dangerous weapon is a Mini Beam.
+Don’t just consider the drones, but also the weapons. An Rebel Rigger with Heavy Laser and Mini Beam is increbibly dangerous. It would be a lot safer with just a Leto for weapons.
 
 If a scary-looking pirate is [offering you a bribe](https://ftl.fandom.com/wiki/Pirate_Bribing_You_for_Unknown_Ship), probably just take it. Fighting only gives a 40% chance of getting an additional scrap reward, though there’s also a chance of 15 hull repair.
 
