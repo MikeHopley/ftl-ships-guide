@@ -108,7 +108,7 @@ Piloting-2 can be tempting when you’re visiting nebula beacons without a clone
 Never waste early-game scrap on luxury purchases like medbay-2, doors-2, or Scrap Recovery Arm.
 
 
-## Exceptions
+### Exceptions
 
 The Stealth cruisers have no shield system at all, and Zoltan B only has shields-1. Mantis B starts with shields-4.
 
