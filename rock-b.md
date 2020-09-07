@@ -1,5 +1,5 @@
 ---
-layout: ship_no-hack
+layout: ship
 title: Rock B
 subtitle: Shivan
 ---
@@ -21,3 +21,6 @@ You have level 2 oxygen, but without doors it can’t counteract a breach. The F
 You have three empty system slots to fill, so try to buy your first system a little earlier than usual. [Defence drones cover this ship well](https://i.imgur.com/FUSYVNi.jpg), as all rooms are outside the blind spot.
 
 Sector 1 distress beacons are worth visiting. You have blue options from Rock crew (good) and Rock Plating (okay).
+
+
+***!! PILOT HACK IMAGE MISSING !!***
