@@ -31,7 +31,7 @@ Many of the ideas here are my own, but some I learned from other players. I’ve
 
 I can’t always remember which is which, because there are so many and I’ve known about them for so long. I also don’t want to clutter the guide with specific attributions. So instead I’ll just mention some of the people whom I’ve learned the most from, or had the most interesting conversations with. In no particular order:
 
-*Twinge, mekloz, Thomas Pettersson, Billy Kirby, chewbacca77, Lifesaburrito, Crowrevell, Farb, Masala, Threarah, Hexagon, Scott Onsie Wilson, DiscordDraconequus*
+*Twinge, mekloz, Thomas Pettersson, Billy Kirby, chewbacca77, Lifesaburrito, Crowrevell, Farb, Masala, Threarah, Hexagon, Scott Onesie Wilson, DiscordDraconequus*
 
 No doubt I’ve missed some. The FTL community is amazing.
 
