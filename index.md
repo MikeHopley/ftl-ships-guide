@@ -23,9 +23,17 @@ This guide contains all kinds of tips, from basic strategy to extremely advanced
 
 Some tips are tiny optimisations that rarely matter. You may want to ignore them, depending on your skill level and how you prefer to play.
 
-Less experienced players might find it overwhelming in places, especially [Stealth B](/stealth-b). I recommend skipping over the parts you don’t understand. You can always come back to them later.
-
 My perspective here is wanting to win consistently on Hard, but most advice applies on lower difficulties too.
+
+### Attribution
+
+Many of the ideas here are my own, but some I learned from other players. I’ve also independently discovered tricks that were already known in the community.
+
+I can’t always remember which is which, because there are so many and I’ve known about them for so long. I also don’t want to clutter the guide with specific attributions. So instead I’ll just mention some of the people whom I’ve learned the most from, or had the most interesting conversations with. In no particular order:
+
+*Twinge, mekloz, Thomas Pettersson, Billy Kirby, chewbacca77, Lifesaburrito, Crowrevell, Farb, Masala, Threarah, Hexagon, Scott Onsie Wilson, DiscordDraconequus*
+
+No doubt I’ve missed some. The FTL community is amazing.
 
 
 ## Play the early game well
