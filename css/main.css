@@ -11,8 +11,13 @@ body {
 	font-size: 110%;
 	line-height: 1.5;
 }
+img {
+	display: block;
+	margin: 0 auto;
+}
 .content-wrapper {
-	max-width: 33em;
+	box-sizing: content-box;
+	max-width: 60ch;
 	margin: 0 auto;
 }
 h1, h2, h3 {

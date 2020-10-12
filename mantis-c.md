@@ -14,11 +14,13 @@ Start the Mantis in the teleporter. Walk the Engi pilot to sensors during the FT
 
 Sometimes the safest option is the simplest: just kill the enemy crew as quickly as possible.
 
-Boarding with all three crew often lets you disable clone/medbays without spending missiles. It can also be your most effective way to disable enemy weapons, using distraction tactics similar to Lanius B. Board shields, wait for all enemies to enter, then move two crew to weapons. All the enemy crew will stay in shields, giving you time to break at least one weapon. To extend your time punching weapons, swap healthy crew into shields (keeping one in shields at all times).
+Boarding with all three crew often lets you disable clone/medbays without spending missiles. It can also be your most effective way to disable enemy weapons, using distraction tactics similar to Lanius B. Board shields and leave one crew in there, while the others break weapons. For more time breaking weapons, swap healthy crew into shields (always keeping one in the room).
 
 This tactic fails when enemies have three crew **and** a two-tile shields room. In some fights it’s also risky to leave your ship unattended. It may be safer to leave your Engi at home for repairs.
 
-For even more time punching weapons, use your bombs tactically. Lockdown lasts for 12 seconds, and stun lasts for 15. You can stun all the enemy crew in shields; then if needed, use the Lockdown Bomb as well. Or lockdown weapons first, then stun the crew trying to break in. Or you might want to use the Stun Bomb on weapons, to switch off a dangerous weapon more quickly. There are many possible tactics!
+Time lockdowns with your fastest crew one tile from the exit square. Regardless of Pheromones: Mantis just before the bomb is completely solid, Engi with a solid middle “cross”, Lanius with the sudden increase in solidity, and Rock before the bomb tray retracts.
+
+![Lockdown Bomb timings](/img/mantis-c/lockdown_all.png)
 
 With good timing, it’s possible to dodge all your crew out a room while stunning the enemy crew. Even just stunning your Lanius is effective: enemy crew will rapidly suffocate. Stunning them in an airless room can be more effective than attacking the medbay.
 
