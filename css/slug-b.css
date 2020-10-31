@@ -1,0 +1,61 @@
+:root {
+	--width: calc(100% / 877);
+	--height: calc(100% / 673);
+}
+
+[data-system='battery'] {
+	left: calc(var(--width) * 184); width: calc(var(--width) * 100);
+	top: calc(var(--height) * 402);	height: calc(var(--height) * 48);
+}
+[data-system='cloak'] {
+	left: calc(var(--width) * 288); width: calc(var(--width) * 100);
+	top: calc(var(--height) * 244); height: calc(var(--height) * 100);
+}
+[data-system='doors'] {
+	left: calc(var(--width) * 499); width: calc(var(--width) * 100);
+	top: calc(var(--height) * 560); height: calc(var(--height) * 48);
+}
+[data-system='drones'] {
+	left: calc(var(--width) * 499); width: calc(var(--width) * 100);
+	top: calc(var(--height) * 455); height: calc(var(--height) * 100);
+}
+[data-system='engines'] {
+	left: calc(var(--width) * 499); width: calc(var(--width) * 100);
+	top: calc(var(--height) * 140); height: calc(var(--height) * 100);
+}
+[data-system='hack'] {
+	left: calc(var(--width) * 395); width: calc(var(--width) * 100);
+	top: calc(var(--height) * 297); height: calc(var(--height) * 100);
+}
+[data-system='medbay'] {
+	left: calc(var(--width) * 709); width: calc(var(--width) * 100);
+	top: calc(var(--height) * 245); height: calc(var(--height) * 100)
+}
+[data-system='mind'] {
+	left: calc(var(--width) * 185); width: calc(var(--width) * 100);
+	top: calc(var(--height) * 245); height: calc(var(--height) * 48);
+}
+[data-system='oxygen'] {
+	left: calc(var(--width) * 446); width: calc(var(--width) * 48);
+	top: calc(var(--height) * 401); height: calc(var(--height) * 100);
+}
+[data-system='pilot'] {
+	left: calc(var(--width) * 604); width: calc(var(--width) * 48);
+	top: calc(var(--height) * 297); height: calc(var(--height) * 100);
+}
+[data-system='sensors'] {
+	left: calc(var(--width) * 499); width: calc(var(--width) * 100);
+	top: calc(var(--height) * 86); height: calc(var(--height) * 48);
+}
+[data-system='shields'] {
+	left: calc(var(--width) * 289); width: calc(var(--width) * 100);
+	top: calc(var(--height) * 349); height: calc(var(--height) * 100);
+}
+[data-system='teleport'] {
+	left: calc(var(--width) * 447); width: calc(var(--width) * 48);
+	top: calc(var(--height) * 193); height: calc(var(--height) * 100);
+}
+[data-system='weapons'] {
+	left: calc(var(--width) * 709); width: calc(var(--width) * 100);
+	top: calc(var(--height) * 349); height: calc(var(--height) * 100);
+}

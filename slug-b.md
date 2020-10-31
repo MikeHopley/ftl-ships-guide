@@ -1,5 +1,5 @@
 ---
-layout: ship_no-hack
+layout: ship
 title: Slug B
 subtitle: The Stormwalker
 ---
