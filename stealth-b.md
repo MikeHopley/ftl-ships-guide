@@ -6,13 +6,14 @@ subtitle: DA-SR 12
 
 ## Avoiding and recovering from disasters
 
+If your weapons get hit, don’t just rush all your crew to repair them. Keep the FTL charging, and also try to repair cloaking. The correct repair priorities are very difficult to judge, and depend on the situation. If you jump away with critical systems damaged, jump to a known safe beacon.
+
 Plan your jumps carefully, to avoid being forced into asteroid fields. Suns and pulsars are also very bad. Try to avoid nebulas too, as they disable your sensors (see below) and often contain Auto-ships.
 
 Look for flexible routes, so you can skip these hazards without losing beacons. Try to plan a route that lets you retreat to a previous beacon. This gives you a safe place to recover after a disaster. Also plan around doubled fleet pursuit.
 
 Sector 1 distress beacons are worth visiting, but guaranteed fights are better. You have blue options from cloaking (okay, good once upgraded) and the Glaive Beam (weak). Note that Long-Ranged Scanners effectively decrease the value of unmarked beacons.
 
-If your weapons *do* get hit, don’t just rush all your crew to repair them. Keep the FTL charging, and also try to repair cloaking. The correct repair priorities are very difficult to judge, and depend on the situation. If you jump away with critical systems damaged, jump to a known safe beacon.
 
 ## When to skip fights
 
@@ -20,7 +21,7 @@ Some events let you “preview” a ship before you choose to fight it. Which fi
 
 A hyper-cautious approach would avoid all fights with drones, at least before you get cloaking-3. This is safest in the short term, but you risk falling too far behind. You must evaluate each fight, but here are some guidelines:
 
-Take fights against Rebel Riggers more willingly than against Auto-assaults. Auto-assaults always have offensive drones, but Riggers may have defensive ones instead. Beware Rebel Disruptors though, as they can have both drones and hacking!
+Take fights against Rebel Riggers more willingly than against Auto-assaults. Auto-assaults always have offensive drones, but Riggers may have defensive ones instead. Beware Rebel Disruptors though, which can have both drones and hacking!
 
 Don’t just consider the drones, but also the weapons. A Rebel Rigger with Heavy Laser and Mini Beam is incredibly dangerous. It would be a lot safer with just a Leto for weapons.
 
@@ -75,7 +76,7 @@ With full weapons training and a third weapon, an Ion Stunner can do the same. F
 
 ## Dealing with drones
 
-Protect your weapons by checking where combat drones are aiming before you cloak. Only cloak if they are about to hit weapons, cloaking, or possibly sensors. Otherwise, delay your cloak until enemy weapons fire. Even then, wait to see whether weapons are targeting anything important. Ideally you’ll let them hit irrelevant rooms, to reduce the chance of the drone sniping your Glaive when cloak ends.
+Protect your weapons by checking where combat drones are aiming before you cloak. Only cloak if they are about to hit weapons or cloaking. Otherwise, delay your cloak until enemy weapons fire. Even then, wait to see whether weapons are targeting anything important. Ideally you’ll let them hit irrelevant rooms, to reduce the chance of the drone sniping your Glaive when cloak ends.
 
 All drones hit the exact centre of the target room, but beam drones do not “line up” at the exact angle they will fire, making them harder to predict. Beam drones can drag into an adjacent room. Beam 1 drones cannot drag across the “long side” of a room (their beam is shorter than 1 tile), but Beam 2 drones can. It’s worth knowing the odds of a bad drag:
 
@@ -100,9 +101,7 @@ It’s also worth knowing how fast they attack, to help decide when to cloak. On
 
 On Hard specifically, enemy targeting can be manipulated to reduce the chance that your weapons or cloaking get hit.
 
-Run the weapons crew to sensors to watch weapons charge. De-power your Glaive when the charge bar is full, then repower when the charge bar resets. This [drastically reduces](https://www.reddit.com/r/ftlgame/comments/7q5ko0/optimal_strategy_for_early_game_stealth_b_runs/) the chance of weapons being targeted, from 19% to 6.5%. **I’ll refer to this de-power trick as “toggling” your Glaive.**
-
-Note that you can’t use the sensors trick in a nebula! This is another reason to avoid them. Also consider that a drone hit into sensors effectively makes enemy weapons more dangerous.
+Run the weapons crew to sensors to watch weapons charge. De-power your Glaive when the charge bar is full, then repower when the charge bar resets. This [drastically reduces](https://www.reddit.com/r/ftlgame/comments/7q5ko0/optimal_strategy_for_early_game_stealth_b_runs/) the chance of weapons being targeted, from 19% to 6.5%. *I’ll refer to this de-power trick as “toggling” your Glaive.*
 
 Venting below 50% oxygen makes enemies less likely to target cloaking. It also reduces the chance of weapons being targeted to 14.8%, but that’s only relevant if you can’t toggle the weapons power. Venting also has some risks, for example if your O2 gets hacked.
 
@@ -112,9 +111,9 @@ Wait to see where enemy hacks land before venting. Get your weapons crew near a 
 
 ### *Now you’re just being silly*
 
-Consider walking your engines Zoltan around the ship for timing the sensors dash. You can use my [Zoltan treadmill](https://mikehopley.github.io/zoltan-treadmill/) for accurate timing.
+Consider [walking your engines Zoltan]((https://www.youtube.com/watch?v=OBwB5uSMNpM) around the ship for timing the sensors dash. You can use my [Zoltan treadmill](https://mikehopley.github.io/zoltan-treadmill/) for accurate timing.
 
-It’s even possible to time enemy weapons purely with crew movement and weapon animation (and this can potentially be used by *any* ship). You can use this when sensors don’t work, such as in a nebula, and you can let drones hit your sensors. It also charges your Glaive slightly faster, which might be relevant against drones or specific weapons.
+It’s even possible to time enemy weapons purely with crew movement and weapon animation (and this can potentially be used by *any* ship). You can use this when sensors don’t work, such as in a nebula, and you can let drones hit your sensors.
 
 Use crew movement to time the weapon charge, de-power the Glaive, wait for the weapon to “go green”, then re-power on the *next* animation frame. For missiles and bombs, listen for the firing sound.
 
@@ -126,7 +125,7 @@ All these tactics assume you’re playing on Hard and using the advanced tricks 
 
 ### Small Bomb (unmanned)
 
-For an *unmanned* Small Bomb together with a faster weapon, [use the Zoltan Treadmill](https://www.youtube.com/watch?v=OBwB5uSMNpM). Your Glaive will finish firing before the bomb explodes.
+For an *unmanned* Small Bomb together with a faster weapon, use the Zoltan Treadmill. Your Glaive will finish firing before the bomb explodes. However, consider letting the faster weapon hit if you can: this gives you more margin for error with your micro.
 
 ### Mini Beam
 
