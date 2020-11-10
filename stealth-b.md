@@ -41,30 +41,27 @@ Later on, with fully-trained weapons crew, you do not need to delay firing the G
 
 ## Upgrade strategy
 
-The ideal upgrade path is:
+Spend your first 50 scrap on cloaking-3. In some **extremely** specific cases you could buy hacking first (e.g. lots of free stuff including drone parts, forced into a store…).
 
-* Cloaking-3
-* Hacking
-* Shields
+With cloaking-3, you are quite safe until sector 3. In most fights, you can cloak immediately and kill them before they fire a shot.
 
-Spend your first 50 scrap on cloaking-3. This lets you kill most enemies before they can fire, by cloaking first. The Glaive falls off hard against 2 shields, so try to get extra offence before sector 3. Hacking is by far the best option.
-
-If a large reward takes you well over 50 scrap, an interesting transposition may be possible. You could jump to an adjacent store and buy hacking first, and cloaking-3 afterwards. With a few drones, hacking serves as both immediate defence and long-term security. If hacking is not available, this might instead be an opportunity to buy a cheap weapon, or perhaps backup battery.
-
-If hacking is not offered, generally buy shields at the first opportunity. Buying shields significantly increases your chance to find hacking later. Also consider buying backup battery. If the next store is selling systems, its chance to sell hacking is *approximately*:
-
-* 33% if you bought no systems
-* 40% if you have backup battery
-* 50% if you have shields
-* 60% if you have both
-
-The most difficult choice is between shields and a weapon. Usually take shields. Even a Burst Laser 2 is somewhat risky without shields, because unlike hacking it can miss. Shields make you a lot safer, especially once upgraded&thinsp;&mdash;&thinsp;but that’s another 50 scrap into defence that won’t help you kill 3-shield enemies in sector 4.
-
-2-power weapons are very expensive to get online (165 scrap for weapons-6 and power), so prefer 1-power weapons. Spending less scrap on weapons gives you a better chance to switch into hacking later, or just upgrade your shields sooner.
-
-Also consider replacing the Glaive with another weapon that you can get online sooner; ideally still keep the Glaive for later, but sell it if necessary. For example, something like Flak 1 + Hull Laser 1 requires no upgrades and can last a long time.
+Your next priorities are shields and some offensive improvement, ideally hacking. Shields alone are enough for sector 3, especially if you upgrade them. In sector 4, typically about half the enemies will have 3 shields; but it’s possible that *every* enemy will have 3 shields.
 
 At intervals, consider buying a weapons buffer. Early on there are more important uses of scrap. However, if you pick up a two-power weapon, it may be worth buying the buffer while you wait.
+
+### Choosing between shields and hacking
+
+You obviously want both, but most likely you won’t be able to buy them both at the same store.
+
+I prefer hacking first if possible. Shields are much easier to find (as a forced system), and hacking is the most efficient offensive option. Efficiency may matter, because two-power weapons are very expensive to get online, and you want the offence in time for sector 4.
+
+You cannot afford to be picky. If a store is offering shields but not hacking, you **must** buy the shields. Going into sector 3 with *neither* system is extremely dangerous.
+
+Shields are safer for sector 3, because they protect you better against the most dangerous fights. Hacking is safer for sector 4, because it gives you a way to win fights.
+
+The only reason *not* to buy and upgrade shields is that offence in sector 4 may be a problem. A 1-power weapon solves that problem. Therefore I would take shields plus (say) an Ion Blast, instead of buying hacking (unless I could afford both systems).
+
+Also consider replacing the Glaive with another weapon that you can get online sooner. For example, something like Flak 1 + Hull Laser 1 requires no upgrades and can last a long time. You definitely need shields here.
 
 ## Specific weapon tactics
 
