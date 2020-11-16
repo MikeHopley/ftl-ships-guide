@@ -20,7 +20,9 @@ Use your Engi for manning and repairs; you only have 10% dodge anyway. Walk them
 
 Vent below 50% oxygen to reduce the chance of enemies targeting weapons. Your Repair Drones make this quite safe. Before the fight, drop O2 to 95%. Open all doors, shut the weapons left door, and shut the doors right door. With O2 off, this gets you below 50% in under 8 seconds.
 
-The drone system requires power to be smart-targeted. Turn on a drone before enemy weapons fire. It may be worth deploying an AP drone before it’s even needed, as that powers the system without letting Repair Drones unpark themselves (see below).
+The drone system requires power to be smart-targeted. Turn on a drone before enemy weapons fire. It may be worth deploying an AP drone before it’s even needed, as that powers the system without letting Repair Drones unpark themselves (see below). This can also protect your Repair Drones from boarders, since the first boarder will attack the top-left tile.
+
+Drones take half damage from weapons. Even unpowered drones count as crew occupying a room, so partial repairs will not reset.
 
 Note that enemy boarders will stay in an airless room, provided they are already fighting your “crew”. Try to time your venting so that the AP Drone arrives shortly before the air leaves.
 
