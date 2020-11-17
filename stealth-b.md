@@ -98,7 +98,11 @@ It’s also worth knowing how fast they attack, to help decide when to cloak. On
 
 On Hard specifically, enemy targeting can be manipulated to reduce the chance that your weapons or cloaking get hit.
 
-Run the weapons crew to sensors to watch weapons charge. De-power your Glaive when the charge bar is full, then repower when the charge bar resets. This [drastically reduces](https://www.reddit.com/r/ftlgame/comments/7q5ko0/optimal_strategy_for_early_game_stealth_b_runs/) the chance of weapons being targeted, from 19% to 6.5%. *I’ll refer to this de-power trick as “toggling” your Glaive.*
+“Toggle” the Glaive power as enemy weapons fire. Run the weapons crew to sensors to watch weapons charge. De-power your Glaive when the charge bar is full, then repower when the charge bar resets. This [drastically reduces](https://www.reddit.com/r/ftlgame/comments/7q5ko0/optimal_strategy_for_early_game_stealth_b_runs/) the chance of weapons being targeted, from 19% to 6.5%.
+
+It seems the targetting is determined when the weapon first “turns green”, which happens a frame or two before the charge bar resets. If you wait for the weapon animation, it will be too late.
+
+Weapons lose charge 6 times faster than they gain it. Against offensive drones, try to minimise the duration of your toggle.  You can add a few unpause-pause cycles after the charge bar is full. I halve the weapon charge time and add that many pauses, maybe a little more on a slow weapon. For example, for a Heavy Laser, 4 pauses is pretty safe. This does require sharp pausing.
 
 Venting below 50% oxygen makes enemies less likely to target cloaking. It also reduces the chance of weapons being targeted to 14.8%, but that’s only relevant if you can’t toggle the weapons power. Venting also has some risks, for example if your O2 gets hacked.
 
