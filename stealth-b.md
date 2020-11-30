@@ -116,7 +116,7 @@ Consider [walking your engines Zoltan]((https://www.youtube.com/watch?v=OBwB5uSM
 
 It’s even possible to time enemy weapons purely with crew movement and weapon animation (and this can potentially be used by *any* ship). You can use this when sensors don’t work, such as in a nebula, and you can let drones hit your sensors.
 
-Use crew movement to time the weapon charge, de-power the Glaive, wait for the weapon to “go green”, then re-power on the *next* animation frame. For missiles and bombs, listen for the firing sound.
+Use crew movement to time the weapon charge, de-power the Glaive, wait for the weapon to “go green”, then re-power. Or maybe wait one more frame to be sure of it.
 
 When you don’t know the type of missile, de-power and wait a few frames to see if it turns green. Bombs are easy: they start animating before charge resets. Flak doesn’t have a “green” frame; just re-power on the first animation.
 
