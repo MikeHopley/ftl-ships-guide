@@ -18,6 +18,8 @@ Precise boarding technique helps your bombs/missiles hit. Use the [Safety Dance]
 
 You can fight in the weapons room and hit it with a missile, dodging your crew out just in time. But it’s difficult to time consistently, so never do this when your crew are low on health (the Artemis does 30 crew damage).
 
+In safe fights, you can often save a missile by taking no crew damage. For example, by [boarding with 1 crew](https://streamable.com/ce80y).
+
 [Defence drones cover this ship poorly](https://i.imgur.com/vOgB7mg.jpg): as weapons and clone/medbay are vulnerable.
 
 Sector 1 distress beacons are…maybe worth visiting. You have blue options from the teleporter (okay) and the Slug (weak).
