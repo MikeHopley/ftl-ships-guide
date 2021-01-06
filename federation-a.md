@@ -12,7 +12,7 @@ If you have a convenient store, and especially with stuff to sell, it might some
 
 Opening with a weapons buffer is also a good option, but I *think* the shield upgrades are safer overall ([explanation](/#weapons-buffer)). Do get the weapons buffer when you can, but not if it might stop you buying a weapon.
 
-Artillery is nice late-game if you have scrap to spare (particularly for the Flagship), but too expensive to upgrade earlier. Beware enemies running away: when possible, manage the artillery power so that it’s ready to fire immediately after your weapons hit, or vice-versa.
+Artillery is nice late-game if you have scrap to spare, but expensive to upgrade earlier. A single upgrade may sometimes be worthwhile, as a damage buffer. Against the Flagship, expect it to hit 5 rooms. Beware enemies running away: when possible, manage the artillery power so that it’s ready to fire immediately after your weapons hit, or vice-versa.
 
 Since artillery uses a system slot, you can only pick two more systems. [Defence drones cover this ship poorly](https://i.imgur.com/Y92J2ml.jpg): weapons and drones are vulnerable.
 
