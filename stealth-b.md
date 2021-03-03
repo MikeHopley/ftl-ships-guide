@@ -35,7 +35,7 @@ Watch out for *Pirate* Mantis Scouts and Interceptors, because you can’t hit b
 
 Put the Zoltan on engines. They can steal power from cloaking.
 
-Usually start the Glaive in shields, for maximum damage. Sometimes it’s better to start in weapons or drones; for example, a manned Heavy Laser will fire before your Glaive finishes. Against Zoltan Shields, use [exact beam placement](https://www.youtube.com/watch?v=oJ8uLSidl7o) to damage weapons.
+Usually start the Glaive in shields, for maximum damage. Sometimes it’s better to start in weapons or drones, to neutralise their offence faster. Against Zoltan Shields, use [exact beam placement](https://www.youtube.com/watch?v=oJ8uLSidl7o) to damage weapons.
 
 Later on, with fully-trained weapons crew, you do not need to delay firing the Glaive against enemies with cloaking: it can hit them exactly as they enter cloak. Practise your weapons or hacking timing against non-cloaking enemies. Similarly, a pre-ignited Glaive can fire immediately against cloaking enemies.
 
@@ -100,9 +100,9 @@ On Hard specifically, enemy targeting can be manipulated to reduce the chance th
 
 “Toggle” the Glaive power as enemy weapons fire. Run the weapons crew to sensors to watch weapons charge. De-power your Glaive when the charge bar is full, then repower when the charge bar resets. This [drastically reduces](https://www.reddit.com/r/ftlgame/comments/7q5ko0/optimal_strategy_for_early_game_stealth_b_runs/) the chance of weapons being targeted, from 19% to 6.5%.
 
-It seems the targetting is determined when the weapon first “turns green”, which happens a frame or two before the charge bar resets. If you wait for the weapon animation, it will be too late.
+It seems the targeting is determined when the weapon first “turns green”, which happens a frame or two before the charge bar resets. If you wait for the weapon animation, it will be too late.
 
-Weapons lose charge 6 times faster than they gain it. Against offensive drones, try to minimise the duration of your toggle.  You can add a few unpause-pause cycles after the charge bar is full. I halve the weapon charge time and add that many pauses, maybe a little more on a slow weapon. For example, for a Heavy Laser, 4 pauses is pretty safe. This does require sharp pausing.
+Weapons lose charge 6 times faster than they gain it. Against offensive drones, try to minimise the duration of your toggle.  You can add a few unpause-pause cycles after the charge bar is full. Frame-perfect pausing would allow almost twice as many pauses as the weapon’s charge time, but that’s asking for trouble. Adopt a comfortable margin for error.
 
 Venting below 50% oxygen makes enemies less likely to target cloaking. It also reduces the chance of weapons being targeted to 14.8%, but that’s only relevant if you can’t toggle the weapons power. Venting also has some risks, for example if your O2 gets hacked.
 
@@ -116,7 +116,7 @@ Consider [walking your engines Zoltan](https://www.youtube.com/watch?v=OBwB5uSMN
 
 It’s even possible to time enemy weapons purely with crew movement and weapon animation (and this can potentially be used by *any* ship). You can use this when sensors don’t work, such as in a nebula, and you can let drones hit your sensors.
 
-Use crew movement to time the weapon charge, de-power the Glaive, wait for the weapon to “go green”, then re-power. Or maybe wait one more frame to be sure of it.
+Use crew movement to time the weapon charge, de-power the Glaive, wait for the weapon to “go green”, then re-power.
 
 When you don’t know the type of missile, de-power and wait a few frames to see if it turns green. Bombs are easy: they start animating before charge resets. Flak doesn’t have a “green” frame; just re-power on the first animation.
 
@@ -124,28 +124,34 @@ When you don’t know the type of missile, de-power and wait a few frames to see
 
 All these tactics assume you’re playing on Hard and using the advanced tricks described above. With that as a baseline, we can make more specific analyses.
 
-### Small Bomb (unmanned)
-
-For an *unmanned* Small Bomb together with a faster weapon, use the Zoltan Treadmill. Your Glaive will finish firing before the bomb explodes. However, consider letting the faster weapon hit if you can: this gives you more margin for error with your micro.
-
 ### Mini Beam
 
-Mini Beam into cloaking has a 40% chance to drag into weapons. Cloaking is less likely to be targeted when on cooldown, so you should typically cloak before the Mini Beam fires. This also gives the best chance of running away, because at least you get 10 seconds of cloak time.
+Mini Beam into cloaking has a high chance to drag into weapons. Cloaking is less likely to be targeted when on cooldown, so you should typically cloak before the Mini Beam fires. This also gives the best chance of running away, as at least you get 10 seconds of cloak time.
+
+By starting in weapons, your Glaive can interrupt an **unmanned** Mini Beam before it finishes firing; this prevents most drags into weapons. Toggling the Glaive correctly is more important, but it’s possible to do both with [extremely good timing](https://www.reddit.com/r/ftlgame/comments/lwcqy6/stealth_b_mini_beam_tactic/).
+
+For example, optimal play against unmanned Heavy Laser + Mini Beam is cloaking the Heavy Laser without toggling, then toggling the Mini Beam perfectly. More forgiving play is doing a regular toggle for both.
+
+### Small Bomb (unmanned)
+
+For an *unmanned* Small Bomb together with a faster weapon, only toggle for the faster weapon. Your Glaive will finish firing before the bomb explodes. You do need a **very** tight toggle (I’d use a full Zoltan treadmill).
+
+A less exacting tactic is to just cloak the faster weapon without toggling.
 
 ### Burst Laser 2 (unmanned)
 
-Now it gets complicated.
+Now it gets complicated. Consider an enemy ship where the weapons room is at most 1 tile separated from the shields room. A common example in sector 1 would be a Rebel Fighter that boards you anywhere but weapons.
 
-*With no interruptions*, your Glaive finishes firing before an unmanned BL2 hits. However, toggling the Glaive usually lets the BL2 hit before you can fire, or at least before you can *finish* firing.
+*With no interruptions*, your Glaive will always fire **most** of its beam before an unmanned BL2 hits. That’s enough to kill those ships. However, toggling the Glaive usually lets the BL2 hit about when you start firing.
 
-Consider BL2 + Heavy Laser. The Heavy Laser forces cloaking if it heads towards *either* weapons or cloaking. Toggling has little benefit here, since you protect weapons at the expense of cloaking; it only drops the chance that *either* system is hit from 5.9% to 5.1%.
+**BL2 + Heavy Laser**, for example. The Heavy Laser forces cloaking if it heads towards *either* weapons or cloaking. Toggling has little benefit here, since you protect weapons at the expense of cloaking; it only drops the chance that *either* system is hit from 5.9% to 5.1%.
 
-So toggling makes the Heavy Laser microscopically less dangerous, while making the BL2 much more dangerous. It’s better not to toggle, and make the BL2 safe. The same logic applies to Ion Blast + BL2.
+So toggling makes the Heavy Laser fractionally less dangerous, while making the BL2 much more dangerous. It’s better not to toggle, and make the BL2 safe. The same logic applies to Ion Blast + BL2.
 
-What about a Basic Laser or Leto? Cloak the fast weapon without toggling. That gives a slightly lower chance of failure, even ignoring complications like piloting hits or double hits to cloaking.
+**Basic Laser or Leto?** Cloak the fast weapon without toggling. That gives a slightly lower chance of failure, even ignoring complications like piloting hits or double hits to cloaking.
 
-What about Ion Stunner? Toggle, and cloak both weapons together. The chance of failure is marginally lower, and you also save hull.
+**Ion Stunner?** Toggle, and cloak both weapons together. The chance of failure is marginally lower, and you also save hull.
 
-What about Mini Beam? Definitely toggle weapons and cloak the BL2. Pre-cloaking (without a toggle) takes cloaking off the priority list and raises the chance of the Mini-Beam directly hitting weapons from 6.5% to 20%.
+**Mini Beam?** Toggle and cloak the BL2. Pre-cloaking (without a toggle) raises the chance of the Mini-Beam directly hitting weapons from 6.5% to 19%.
 
-What about a Small Bomb? Pre-cloak without toggling, and you finish firing before either weapon can hit.
+**Small Bomb?** Pre-cloak without toggling, and you finish firing before either weapon can hit.

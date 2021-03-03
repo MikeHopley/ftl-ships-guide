@@ -126,6 +126,7 @@ button:focus {
 	width: 100%;
 	position: absolute;
 	margin: 1.5em auto 2em auto;
+	padding-bottom: 2em;
 }
 
 /*==================================
