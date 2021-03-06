@@ -8,7 +8,7 @@ You urgently need extra offence, since you **cannot** harm ships with two shield
 
 You have a lot to sell at a store, especially if you get free crew early. AP Drone sells for 17, Repair Drones for 15 each, and DRB for 25. Heavy Ion sells for 22. This gives a total of **94 scrap** in sellable items.
 
-Until you get more crew, try to keep one Repair Drone and the AP Drone. Selling all the drones is probably worth it to secure a weapon, like a Flak 1. Boarding events can be sketchy without the AP drone, but still manageable with exact technique. The main danger is boarding events together with a ship fight; nevertheless, having better weapons helps a lot with the ship fight.
+Until you get more crew, try to keep one Repair Drone and the AP Drone. Selling all the drones is probably worth it to secure a weapon. Boarding events can be sketchy without the AP drone, but still manageable with exact technique. The main danger is boarding events together with a ship fight; nevertheless, having better weapons helps a lot with the ship fight.
 
 Because you are so vulnerable, typically rush shield upgrades. Rushing shields also gives more chances for early crew kills. Use the Heavy Laser as a shield-breaker, so you can ion O2.
 
