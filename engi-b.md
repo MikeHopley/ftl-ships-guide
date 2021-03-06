@@ -4,11 +4,11 @@ title: Engi B
 subtitle: The Vortex
 ---
 
-You urgently need extra offence, since you **cannot** harm ships with two shields. Bad offence makes you vulnerable, however, so shield upgrades are urgent too. You want crew as well, but they are a much lower priority than shields and weapons.
+You urgently need extra offence, since you **cannot** harm ships with two shields. Bad offence makes you vulnerable, however, so shield upgrades are urgent too. You want crew as well, but they are a much lower priority.
 
-The ship does have a lot to sell at a store, especially if you get free crew early. AP Drone sells for 17, Repair Drones for 15 each, and DRB for 25. Heavy Ion sells for 22. This gives a total of **94 scrap** in sellable items.
+You have a lot to sell at a store, especially if you get free crew early. AP Drone sells for 17, Repair Drones for 15 each, and DRB for 25. Heavy Ion sells for 22. This gives a total of **94 scrap** in sellable items.
 
-Until you get more crew, it’s typically best to keep one Repair Drone and the AP Drone. Selling both Repair Drones is viable, but selling the AP drone is really dangerous. Keeping the AP drone brings down the sellable total to 77 scrap.
+Until you get more crew, try to keep one Repair Drone and the AP Drone. Selling all the drones is probably worth it to secure a good weapon, like a Flak 1. Boarding events can be sketchy without the AP drone, but still manageable with exact technique. The main danger is boarding events together with a ship fight; nevertheless, having better weapons helps a lot with the ship fight.
 
 Because you are so vulnerable, typically rush shield upgrades. Rushing shields also gives more chances for early crew kills. Use the Heavy Laser as a shield-breaker, so you can ion O2.
 
@@ -18,7 +18,7 @@ If your weapons take one damage, you can still attack. Fire the ion then switch 
 
 Use your Engi for manning and repairs; you only have 10% dodge anyway. Walk them towards weapons during the FTL jump.
 
-Vent below 50% oxygen to reduce the chance of enemies targeting weapons. Your Repair Drones make this quite safe. Before the fight, drop O2 to 95%. Open all doors, shut the weapons left door, and shut the doors right door. With O2 off, this gets you below 50% in under 8 seconds.
+Vent below 50% oxygen to reduce the chance of enemies targeting weapons. Your Repair Drones make this quite safe. Pre-vent O2 and engines (which is otherwise vulnerable to boarders). Then turn off O2 and drop it to 74% before you jump. At the next beacon, open all doors, then shut the weapons left door and the doors right door.
 
 The drone system requires power to be smart-targeted. Turn on a drone before enemy weapons fire. It may be worth deploying an AP drone before it’s even needed, as that powers the system without letting Repair Drones unpark themselves (see below). This can also protect your Repair Drones from boarders, since the first boarder will attack the top-left tile.
 
