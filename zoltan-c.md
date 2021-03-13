@@ -8,8 +8,6 @@ Zoltan Shield provides strong defence in most fights, and you kill early enemies
 
 Autofiring the ion on shields is not always the best tactic. Consider sending some ion into enemy weapons; this kills ships more slowly but can be safer. Micro the drone so it doesn’t waste time firing when their shield is up. Against enemies with two shields, fully charge the Charge Ion for the first volley to help it “stick” (and if you only hit one shot, start again).
 
-The Charge Ion can neutralise some enemies by desynchronising their weapons. For example: against double Heavy Laser, fire two charges at weapons 
-
 When enemies can’t hurt you, train your crew and then try ionising O2 for a crew kill. It only works against level 1 O2, so watch the system icon: if a single hit makes it flash blue/grey, then it’s level 1. You’ll need to micromanage it, firing a full charge of 3 followed by a single shot to sneak inside the regenerating shield. Repeat until you die of boredom.
 
 Delay using the backup battery as long as possible&thinsp;&mdash;&thinsp;usually after your Zoltan Shield goes down. Position the beam drone so it will fire the instant shields go down, then divert its power to engines. You do not need the battery for this! When the beam drone has started firing, cutting power will not interrupt its beam; you can micro that power to engines as a shot comes in.
