@@ -11,11 +11,11 @@ This ship seems very safe. Zoltan shield is good protection in most fights, the 
 
 However, fights against drones and in asteroid fields can be dangerous, or even just regular enemies with shield buffers. The Halberd suddenly becomes a liability when it’s taken offline before firing. Your crew are frail, and fires or breaches in the weapons and shields can be serious trouble.
 
-Given this threat, I now favour buying weapons-4 with my first 35 scrap, and then saving for offence. This is more expensive than shields-3, but it protects the Halberd and gets the Leto online. The price I pay for this is delaying shields.
-
-Don’t sell the Leto unless you really need to, or if you just run out of weapon slots.
+Given this threat, I now favour buying weapons-4 with my first 35 scrap, and then saving for offence. This is more expensive than shields-3, but it protects the Halberd and gets the Leto online. The price I pay for this is delaying shields. I still want the second shield up in time for sector 3, as that’s when you can face multiple offensive drones.
 
 You start with only engines-1. Engines-2 and engines-3 are cheap and work well with the Zoltan Shield, but shields-4 is still better. Fit in engine upgrades later, when you can.
+
+Don’t sell the Leto unless you really need to, or if you just run out of weapon slots.
 
 Your first extra crew member is worth one free power, replacing the pilot. Don’t forget that two Zoltans can completely [ion-proof one shield layer](https://www.youtube.com/watch?v=jpR3veZtlsc&t=3m15s), and can also [de-ionise shields](https://www.youtube.com/watch?v=jpR3veZtlsc&t=52s) even when you have multiple layers.
 
