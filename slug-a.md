@@ -3,8 +3,9 @@ layout: ship
 title: Slug A
 subtitle: Man of War
 ---
+Typically rush shields, then look for a weapon. Rushing shields gives more opportunities for safe crew kills and reduces your need to use bombs for safety. However, you have a weapons buffer for the lasers and bomb, and you also have a lot to sell. Sometimes it might be better to delay shield upgrades slightly and save for a store.
 
-Rush shields, then look for a weapon. Rushing shields gives more opportunities for safe crew kills.
+I mostly plan around selling the augment and if needed the beam, giving 55 scrap. You can sell the bomb too, giving 80 scrap; that’s a good trade for a stronger weapon, but questionable if buying hacking.
 
 Start fights with Dual Lasers and Breach Bomb powered, then switch to Anti-bio Beam when enemies are not a threat. Use the bomb against threatening weapons. The Breach Bomb can be an effective crew-killing weapon too; it does 30 crew damage. Breaches attract a second crew once repaired, giving a chance to double the damage from a laser or bomb. Sometimes you can use the Breach Bomb for early skill-farming against automated ships (permanently disabling a weapon).
 

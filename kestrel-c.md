@@ -4,8 +4,6 @@ title: Kestrel C
 subtitle: The Swallow
 ---
 
-Treat it as a weaker Lanius A (no hacking) or Kestrel A (weaker weapons).
-
 You have little to sell, and a single hit to weapons makes your offence very weak. Typically rush shields and then look for a weapon. Rushing shields also means more chances for early crew kills.
 
 Opening with a weapons buffer is also a good option, but I *think* the shield upgrades are safer overall ([explanation](/#weapons-buffer)). Do get the weapons buffer when you can, but not if it might stop you buying a weapon.

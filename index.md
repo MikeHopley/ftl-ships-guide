@@ -31,7 +31,7 @@ I don’t want to clutter the guide with attributions, so I’ll just mention th
 
 In no particular order:
 
-*Twinge, mekloz, Thomas Pettersson, Billy Kirby, chewbacca77, lifesaburrito, Crowrevell, Farb, Masala, Threarah, Hexagon, Scott Onesie Wilson, DiscordDraconequus, neozar*
+*Twinge, mekloz, Thomas Pettersson, Billy Kirby, chewbacca77, lifesaburrito, Crowrevell, Farb, Masala, Threarah, Hexagon, Scott Onesie Wilson, DiscordDraconequus, neozar, Ray Robertson*
 
 No doubt I’ve missed some. The FTL community is amazing.
 
@@ -43,7 +43,7 @@ To win consistently, you must play as “safely” as possible and get through t
 * Two shields
 * Offence that works well against two-shield enemies
 
-“Offence” at this stage usually means a weapon, but it could be hacking, mind control, teleporter, or a combat drone. Hacking is especially strong. When I say “look for a weapon”, that’s really  shorthand for “look for a weapon, or hacking, or other offence”. 
+“Offence” at this stage usually means a weapon, but it could be hacking, mind control, teleporter, or a combat drone.
 
 Ideally I like to start with a good weapon, then add hacking a bit later.  Prefer 1- or 2-power weapons that you can get online quickly.
 
@@ -95,7 +95,7 @@ Consider Kestrel C, Federation A and B, and Slug C. These ships start with both 
 
 This presents a choice: do you spend 25 scrap upgrading weapons before shields?
 
-It’s hard to be sure what is correct, but I *think* the shield upgrades are safer overall. I could easily be wrong about this!
+It’s hard to be sure what is correct, but I *think* the shield upgrades are safer overall. I could be wrong about this!
 
 Weapons-3 plays a similar role to shields-3, with a few differences. A weapons buffer helps stop enemies getting away, but a shields buffer makes run-ending disasters less likely.
 
@@ -121,3 +121,23 @@ Never waste early-game scrap on luxury purchases like medbay-2, doors-2, or Scra
 The Stealth cruisers have no shield system at all, and Zoltan B only has shields-1. Mantis B starts with shields-4.
 
 The strategies for these ships are quite different, reflecting their special starting conditions.
+
+## Opening transpositions
+
+In chess, there are many “standard openings” that have stood the test of time. These openings are preferred as they don’t have serious exploitable flaws.
+
+Often it’s possible to use a different move order and arrive at the same opening position later. This is called a *transposition*. Expert chess players use transpositions to gain subtle advantages, even choosing them based on knowledge of the opponents’ playstyle.
+
+Some openings are quite rigid, while others have a maze of transpositions that lead off into obscure openings, into small variations, or back to the main opening line.
+
+Consider the same idea with FTL. With some ships, your opening might be rigid. With other ships, you might vary the move order according to the situation.
+
+These choices might depend on how your opponent behaves. You can think of FTL as the opponent. Always take into consideration what your opponent is doing.
+
+## Keep an open mind, and keep learning
+
+I think I know FTL pretty well. I expect to win almost every game, unless I’m doing challenges.
+
+That doesn’t mean I’m right about everything, especially when it comes to difficult strategic decisions. FTL is strategically deep, and it’s easy to get set in your ways.
+
+There’s a lot to be said for trying different strategies, and learning by experience. I’m still learning.

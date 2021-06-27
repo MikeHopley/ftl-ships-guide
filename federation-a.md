@@ -6,9 +6,7 @@ subtitle: The Osprey
 
 This ship starts vulnerable, due to weak offence that goes offline with a single hit. Enemies may escape and double the fleet pursuit, so plan your jumps with this in mind.
 
-Typically rush shields, then look for a weapon. Consider teleporter as a  fallback plan, since you start with decent boarders. 
-
-If you have a convenient store, and especially with stuff to sell, it might sometimes be worth delaying shields. You could potentially buy a 1-power weapon and upgrade weapons next.
+Typically rush shields, then look for a weapon. If you have a convenient store, and especially with stuff to sell, it might sometimes be worth delaying shields. You could potentially buy a 1-power weapon and upgrade weapons next.
 
 Opening with a weapons buffer is also a good option, but I *think* the shield upgrades are safer overall ([explanation](/#weapons-buffer)). Do get the weapons buffer when you can, but not if it might stop you buying a weapon.
 

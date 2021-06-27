@@ -6,13 +6,13 @@ subtitle: The Basilisk
 
 Despite its apparent strength, this ship is vulnerable at the start because Mantis crew are terrible at repairs and fire-fighting. Plan routes that let you revisit a previous beacon and repair after a disaster.
 
-Mantis B’s nemesis is an Automated ship with a Small Bomb and Burst Laser 2. Even with **perfect** play, you’ll die about 1 time in 3. I’m not kidding.
+Mantis B’s nemesis is an Automated or Zoltan ship with a Small Bomb and Burst Laser 2. Even with **perfect** play, you’ll die about 1 time in 3. I’m not kidding.
 
-The quickest fix is engines. Engines-2 increases your odds of survival to ~94%, engines-3 to nearly 100% and likely to take a lot less damage. If you see an immediate store, take it. You can sell Mantis Pheromones and buy engines-2, maybe engines-3.
+The quickest fix is engines. Engines-2 increases your odds of survival to ~94%, engines-3 to nearly 100% and likely to take a lot less damage. If you see an immediate store, take it. You can sell Mantis Pheromones and buy engines-3.
 
 After you’ve taken care of early-game safety, look for weapons, crew, or hacking. One-power weapons are particularly good, because you can use them immediately. A Small Bomb lets you disable enemy weapons (or medbays). An Ion Blast is cheap and lets you attack Zoltan ships.
 
-Once you have three crew, you gain the option of using distraction tactics to break weapons (see Mantis C for an explanation).
+Once you have three crew, you gain the option of using distraction tactics to break weapons (see [Mantis C](/mantis-c) for an explanation).
 
 The defence drone is [unreliable at protecting shields and drones](https://i.imgur.com/qSlV6gW.jpg). On Hard, remove power from the drone before a missile fires, to reduce the chance of drones being targeted. Remove power from shields as well, if you don’t need them.
 
@@ -24,7 +24,7 @@ Don’t hesitate to spend drone parts when fights look dangerous. Your boarding 
 
 Precise venting helps against solar flares or fire-lighting weapons. Just before the fire starts, have no oxygen in the bottom-left corner, and switch off O2; but also close the doors. [Repairing O2 is possible](https://www.youtube.com/watch?v=J47ENy6-CAM&t=1m22s) even in a fully-vented ship, providing you have medbay-2: you’ll need to run relays, and the timing is very tight.
 
-Leave one Mantis in piloting (to start the FTL charging immediately), and put the other in sensors. This delays boarding by under 2 seconds, but occasionally stops you sending crew on a suicide mission. When completely safe, destroy systems for surrender offers (as low as 1 hull).
+Leave one Mantis in piloting (to start the FTL charging immediately), and put the other in sensors. When completely safe, destroy systems for surrender offers (as low as 1 hull).
 
 Sector 1 distress beacons are worth visiting. Even without blue options, distress beacons can give crew, and are safer on average. The Boarding Drone has a low-scrap blue option.
 

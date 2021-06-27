@@ -6,7 +6,7 @@ subtitle: Bulwark
 
 You urgently need non-missile offence. Ideally get good weapons, but you really need *two* weapons to make a reasonable loadout for sector 3, and that can be tricky without some luck. Nevertheless, a single non-missile weapon at least reduces your missile usage, so consider damage-dealers like a Heavy Laser. Even an Ion Blast is good, as it’s cheap and helps against Zoltan Shields.
 
-Seriously consider buying a teleporter, which slots next to the medbay. This fixes your missile dependency and gives you a reliable way to win fights for a long time, as the Artemis is a great boarding support weapon.
+Seriously consider buying a teleporter, which slots next to the medbay. This fixes your missile dependency and gives you a reliable way to win fights for a long time, as the Artemis is a great boarding support weapon. Boarding is improved a lot by adding hacking, and usually it’s easier to find hacking than weapons.
 
 The Artemis has a 2-point weapons buffer, so delay shield upgrades enough to afford a weapon or teleporter. Selling the Rock Plating and Hull Missile nets you 72 scrap, so you only need to float 18 scrap.
 

@@ -12,7 +12,7 @@ By itself, the Fire Bomb is not that effective, except against Mantis. Enemies p
 
 It’s tempting to upgrade weapons early, so you can use them together; but this doesn’t improve your offence enough. That scrap is better saved for buying a weapon, a system, or shields-4. Mind control or hacking makes the Fire Bomb much better. Also consider a teleporter for Rock fire-boarding shenanigans.
 
-Doors are much too expensive to buy. Note you don’t get airlocks, although hull breaches can be used. You *can* fire-bomb your own ship to help with boarding defence, but this is rarely useful. Mind control helps, especially against the Flagship. Phase 3 boarders can be rough without doors/venting, so you have extra incentive to kill the crew in phase 1; you can do this by fire-bombing shields, together with mind control or hacking.
+Doors are generally too expensive to buy. Note you don’t get airlocks, although hull breaches can be used. You *can* fire-bomb your own ship to help with boarding defence, but this is rarely useful. Mind control helps, especially against the Flagship. Phase 3 boarders can be rough without doors/venting, so you have extra incentive to kill the crew in phase 1; you can do this by fire-bombing shields, together with mind control or hacking.
 
 Rock crew are good at putting out fires (67% bonus), but it’s important to stay on top of them. Fires can rage out of control in 4-tile rooms, so try to put them out quickly. In bad situations, turning off O2 can help fires burn themselves out faster.
 

@@ -10,9 +10,9 @@ Do not buy engine upgrades before shields, even though they’re much cheaper: y
 
 Nebula beacons are worth visiting. They do have a higher chance of automated ships, which may have drones. But 75% of automated ships *don’t* have drones, and your Zoltan Shield is a good counter to cloaking, mind control, or hacking. Nebula beacons are also guaranteed not to be asteroid fields!
 
-Once you have a regular shield, your Zoltan Shield and fantastic weapons make sectors 1 and 2 very safe. Consider delaying shields-3 and maybe shields-4, in the hope of finding a good weapon.
+Once you have a regular shield, your Zoltan Shield and fantastic weapons make sectors 1 and 2 very safe. Consider delaying shields upgrades, to afford a weapon or hacking.
 
-Use your weapons optimally against enemies with one shield. You can fire both ions immediately at weapons (or drones), and the Pike Beam will still do full damage before the shield comes up. On the second volley, you can sneak at least one ion inside the shield: micromanage them so both fire from the third weapon slot initially (giving a longer travel time), then bring them forwards for the second volley (be careful though: with a Zoltan in the room, weapons depower as you move them!).
+Against one shield, you can fire both ions immediately at weapons (or drones), and the Pike Beam will still do full damage before the shield comes up. Micromanage the weapon positions to [sneak ions inside](https://www.youtube.com/watch?v=B4HSnETunLI&t=173s) the shield.
 
 When enemies have one shield and cannot harm you, try ionising O2 for a crew kill. You can also [kill crew with the Pike Beam](https://www.youtube.com/watch?v=Kf2BSXqtbmg), but the timing is quite difficult.
 

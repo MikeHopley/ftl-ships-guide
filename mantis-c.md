@@ -4,7 +4,7 @@ title: Mantis C
 subtitle: The Theseus
 ---
 
-Rush shields, then look for weapons. Finding weapons is not urgent though, as the Stun Bomb lets you beat any enemy in the game&thinsp;&mdash;&thinsp;[including the Flagship](https://www.youtube.com/watch?v=n4di0ohYcOs&t=9m55s)! If you’re still low on crew in the mid-game, buy some.
+Rush shields, then look for weapons or hacking. Finding weapons is not urgent though, as the Stun Bomb lets you beat any enemy in the game&thinsp;&mdash;&thinsp;[including the Flagship](https://www.youtube.com/watch?v=n4di0ohYcOs&t=9m55s)! If you’re still low on crew in the mid-game, buy some.
 
 Hit early stores to fund your shield upgrades. Selling Lockdown Bomb and Mantis Pheromones gives you 47 scrap.
 

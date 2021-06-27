@@ -20,7 +20,7 @@ Consider buying sensors eventually, for using mind control more flexibly. Sensor
 
 Emergency Respirators have little use, but do help you vent more aggressively. Venting below 50% oxygen is easy on this ship, and increases the chance enemies will target O2 instead of something that matters. With two Lanius and a clone bay, you’re pretty safe doing this.
 
-[Defence drones cover this ship well](https://i.imgur.com/orY9chJ.jpg), as all rooms are well outside the blind spot. But you only have one system slot, so probably buy hacking or cloaking instead. Cloaking is particularly good, providing you have reasonable weapons&thinsp;&mdash;&thinsp;and Advanced Flak gives you a huge head-start on that.
+[Defence drones cover this ship well](https://i.imgur.com/orY9chJ.jpg), as all rooms are well outside the blind spot. But you only have one system slot, so buy hacking or cloaking instead. Typically I’d take hacking, as it’s easier to get early and is ideal boarding support. However, cloaking is also great if you have good weapons&thinsp;&mdash;&thinsp;and Advanced Flak gives you a huge head-start on that.
 
 With cloaking, boarding, and mind control, it’s easy to neutralise phase 1 and slowly kill off the crew. A single point of damage is enough to make the missiles harmless, and once damaged you can disrupt repairs with boarding and mind control. Consider upgrading mind control; level 3 is incredibly disruptive. Also consider upgrading sensors, in case they get hacked (making mind control harder to use).
 
