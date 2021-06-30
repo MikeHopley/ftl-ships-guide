@@ -3,8 +3,9 @@ layout: ship
 title: Kestrel C
 subtitle: The Swallow
 ---
-
 You have little to sell, and a single hit to weapons makes your offence very weak. Typically rush shields and then look for a weapon. Rushing shields also means more chances for early crew kills.
+
+Since your offence is bad against two shields, it might sometimes be better to delay shields and look for an early weapon. One good compromise could be to rush shields-3 but delay shields-4.
 
 Opening with a weapons buffer is also a good option, but I *think* the shield upgrades are safer overall ([explanation](/#weapons-buffer)). Do get the weapons buffer when you can, but not if it might stop you buying a weapon.
 
