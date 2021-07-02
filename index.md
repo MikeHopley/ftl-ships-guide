@@ -73,7 +73,6 @@ In most circumstances&thinsp;&mdash;&thinsp;but not all, and it depends on the s
 
 *The [shield hack drone](https://ftl.fandom.com/wiki/Rebel_AI_Scout_carrying_Shield_Virus) is out there, waiting for you. It knows nothing of mercy, neither of fairness, nor yet charity; and in its lifeless eyes, the noble pursuit of win streaks is but a guttering candle, soon to be extinguished.*
 
-
 ### What factors influence this decision?
 
 The biggest factor is what ship you are playing. Some ships have safer starts. Some ships are more desperate for additional offence. Some ships have more stuff to sell. These concerns often compete with each other.
@@ -84,7 +83,9 @@ When a ship urgently needs extra offence, delaying shield upgrades is more worth
 
 When a ship has more stuff to sell, visiting early stores is more worthwhile and does not delay your shields as much. Rock A need only float 18 scrap to afford even a teleporter, but Kestrel A would need to float 80 for hacking or a full choice of weapons.
 
-Beware greed. If you’re only in the market for top-tier weapons, it’s probably incorrect to delay shield upgrades. A good question to ask yourself might be, “if an early store had a Chain Laser, would I buy it?”
+Recognise greed. If you’re only in the market for top-tier weapons, it’s probably incorrect to delay shield upgrades. A good question to ask yourself might be, “if an early store had a Chain Laser, would I buy it?”
+
+Even on Zoltan ships, beware delaying shields for too long. When you enter sector 3, you can face enemies with two offensive drones.
 
 
 ## Other strategies
@@ -103,7 +104,7 @@ The other big difference is what they prepare you for. Shields-3 leads directly 
 
 In sectors 1 and 2, I generally want shields more than I want another weapon *online*. The weapon is mostly for sector 3. Opening with the weapons buffer leads me into a shields buffer, and then into shields-4. That’s 75 scrap spent on safety before I start saving for a weapon.
 
-This evaluation could change if you find (or buy) a 1-power weapon early, because then you *know* that buying the buffer gets a weapon online immediately. For example, say Kestrel C finds an early Heavy Laser. In that case, upgrading weapons before shields probably makes sense.
+This evaluation could change if you find (or buy) a 1-power weapon early, because then you *know* that buying the buffer gets a weapon online immediately.
 
 ### Minor upgrades
 
