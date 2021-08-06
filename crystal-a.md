@@ -6,7 +6,7 @@ subtitle: Bravais
 
 Typically rush shields, then look for offence. You have a lot to sell, however, and a 2-point weapons buffer for the Heavy Crystal gives some safety. Consider delaying shield upgrades if you see an early store. Sell Crystal Vengeance at the first store you visit.
 
-A teleporter is excellent on this ship, as two Crystals can break 3 weapons bars in ~19 seconds. You can improve this with hacking or mind control, or just upgrading the teleporter; with hacking and teleporter-2, you can expect to break 6 bars. Two Crystals can *just* break 6 bars on automated ships before needing to come home.
+A teleporter is excellent on this ship, as two Crystals can break 3 weapons bars in ~19 seconds. You can improve this with hacking or mind control, or just upgrading the teleporter; with hacking and teleporter-2, you can expect to break 6 bars in a large room. Two Crystals can *just* break 6 bars on automated ships before needing to come home.
 
 Lockdown protects the health of hacked doors, so enemies will still need to break them after lockdown expires. This means you can use hacked doors as a “buffer” between lockdowns, to maximise your lockdown time.
 
