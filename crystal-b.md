@@ -6,13 +6,13 @@ subtitle: Carnelian
 
 Pre-vent the cloaking room, as it’s a long way from your other stations. You might even pre-vent weapons.
 
-Consider delaying shield upgrades slightly. You cannot touch Zoltan ships initially, and can cripple but not kill automated ships. In the worst possible case, you could be forced into a Zoltan sector 2. Crystal Lockdown makes you very safe in most fights, and cloaking adds more safety. You also have 40 scrap from Crystal Vengeance.
+As the ship needs so little to win, just rush shields and then look for a weapon. It’s worth jumping to an immediate store to sell the augment and buy shields-3. Even if you are forced into Zoltan sector 2 with no weapons, you’re still okay. Crystal B can skip a whole sector of fights and still win comfortably.
 
 Cloaking-2 is also a great upgrade, providing a lot of safety. I’d still upgrade shields first though.
 
 If you are without weapons in a Rebel sector or Uncharted Nebula, consider buying clone bay so you can kill automated ships. Same goes for Abandoned sectors (although an upgraded teleporter will work there, with careful play).
 
-Start fights with one Crystal in the teleporter, and have the pilot start walking there during the FTL jump. Put the other Crystal in sensors. Manning sensors delays two-Crystal boarding by about 1 second, but can be relevant for deciding whether to board with all three Crystals or keep one back for piloting and repairs.
+Start fights with one Crystal in the teleporter, and have the pilot start walking there during the FTL jump. Put the other Crystal in sensors.
 
 In particularly awful situations, sensor information can stop you sending crew on a suicide mission. Your crew are incredibly precious. Losing crew early is almost the only way this ship can actually lose.
 
@@ -30,4 +30,4 @@ Sell Crystal Vengeance at the first store. You only have one system slot left, s
 
 Sector 1 distress beacons are…maybe worth visiting. You have blue options from cloaking-1 (weak) and teleporter (okay).
 
-…and I lied again. It’s [technically possible](https://www.reddit.com/r/ftlgame/comments/al3bil/safely_destroying_auto_ships_with_a_medbay_on_the/) to kill automated ships, with perfect timing. Make one tiny slip and you lose a Crystal though, so I don’t think the risk is worth the reward. It’s not like this ship needs the scrap.
+With perfect timing, it’s [technically possible](https://www.reddit.com/r/ftlgame/comments/al3bil/safely_destroying_auto_ships_with_a_medbay_on_the/) to kill automated ships from the start. Make one tiny slip and you lose a Crystal though, so I don’t recommend this.
