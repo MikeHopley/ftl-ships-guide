@@ -10,7 +10,7 @@ Time your volley precisely. It’s often best to wait a moment before firing the
 
 Against Zoltan Shields, use [precise beam placement and timing](https://www.youtube.com/watch?v=PPji41olyFM&t=1m20s) to help disable weapons.
 
-With hacking, the starting weapons can both be kept for the whole game. More likely, you’ll replace at least one with something harder-hitting. Nevertheless, don’t ignore the possibility of keeping both; you can save a lot of scrap on weapons upgrades.
+With hacking, the starting weapons can be kept for the whole game. For example, adding a Flak 1 gives a game-winning setup for only 4 weapons power. Equally, it’s fine to replace one or both with something harder-hitting, like a Halberd.
 
 As on Stealth B, keeping oxygen below 50% decreases the chance of weapons/cloaking being hit. With fast weapons though (and a long walk to sensors), it’s not worth using the weapons depower trick.
 

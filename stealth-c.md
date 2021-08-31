@@ -12,7 +12,7 @@ Put the Slug in piloting. Put the Rock on weapons, because the central location 
 
 As with Stealth B, keeping oxygen below 50% decreases the chance of weapons being hit.
 
-As with Stealth A, your starting weapons are strong but slot-inefficient. They *can* last the whole game, but you’ll probably replace one of them eventually. The Mini Beam can hit four rooms on many ships.
+As with Stealth A, your starting weapons can be kept for the whole game, if you get hacking; alternatively, you can replace one or both with something harder-hitting, like a Halberd. The Mini Beam can hit four rooms on many ships.
 
 Your strong weapons are your best defence, so spend your first 25 scrap on weapons-3 as a damage buffer. Typically buy shields next, and then look at improving offence or upgrading to shields-4. It’s also reasonable to buy a weapon before shields, so consider doing this if you find something like a Flak 1. Also remember you can use the Mini Beam [as an Anti-bio Beam](https://www.reddit.com/r/ftlgame/comments/72lds2/every_beam_can_be_an_antibio_beam/), increasing the value of shields-4.
 
