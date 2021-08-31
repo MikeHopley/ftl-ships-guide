@@ -4,7 +4,7 @@ title: Crystal B
 subtitle: Carnelian
 ---
 
-Pre-vent the cloaking room, as it’s a long way from your other stations. You might even pre-vent weapons.
+Initially pre-vent everything right of sensors, then refill to 90%. This lets you kick boarders out of weapons and cloaking before they can break the system.
 
 As the ship needs so little to win, just rush shields and then look for a weapon. It’s worth jumping to an immediate store to sell the augment and buy shields-3. Even if you are forced into Zoltan sector 2 with no weapons, you’re still okay. Crystal B can skip a whole sector of fights and still win comfortably.
 

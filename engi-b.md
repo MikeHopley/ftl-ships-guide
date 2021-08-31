@@ -18,7 +18,7 @@ If your weapons take one damage, you can still attack. Fire the ion then switch 
 
 Use your Engi for manning and repairs; you only have 10% dodge anyway. Walk them towards weapons during the FTL jump.
 
-Vent below 50% oxygen to reduce the chance of enemies targeting weapons. Your Repair Drones make this quite safe. Pre-vent O2 and engines (which is otherwise vulnerable to boarders). Then turn off O2 and drop it to 74% before you jump. At the next beacon, open all doors, then shut the weapons left door and the doors right door.
+Vent below 50% oxygen to reduce the chance of enemies targeting weapons. Your Repair Drones make this quite safe. Pre-vent O2 and engines (which is otherwise vulnerable to boarders). Then turn off O2 and drop it to 74% before you jump. At the next beacon, open all doors and airlocks, then shut the weapons left door and the doors right door.
 
 The drone system requires power to be smart-targeted. Turn on a drone before enemy weapons fire. It may be worth deploying an AP drone before it’s even needed, as that powers the system without letting Repair Drones unpark themselves (see below). This can also protect your Repair Drones from boarders, since the first boarder will attack the top-left tile.
 
