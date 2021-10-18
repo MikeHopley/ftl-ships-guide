@@ -14,6 +14,8 @@ Look for flexible routes, so you can skip these hazards without losing beacons. 
 
 Sector 1 distress beacons are worth visiting, but guaranteed fights are better. You have blue options from cloaking (okay, good once upgraded) and the Glaive Beam (weak). Note that Long-Ranged Scanners effectively decrease the value of unmarked beacons.
 
+Despite the awful medbay, you can [heal four crew](https://www.youtube.com/watch?v=x9mK7101qUc) at the same time.
+
 
 ## When to skip fights
 
