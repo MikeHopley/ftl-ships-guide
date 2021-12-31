@@ -3,8 +3,11 @@ layout: ship
 title: Zoltan C
 subtitle: Cerenkov
 ---
+This ship can have one of the toughest transitions into the mid-game, due to inital reactor costs and the starting ion/drone setup. For example, on most gunships you’d be thrilled with a Flak 1, but on Zoltan C you’d still lack targeted damage. Getting a three-power weapon online together with the Charge Ion is also tough, and can leave you vulnerable in sector 3 with delayed shield upgrades or extremely low power. Although it’s best avoided, do **consider** using the starting offence even through sector 3 if necessary. Depending on your store options and scrap, it may be better to get two shields up first, instead of a minor offensive improvement.
 
-Zoltan Shield provides strong defence in most fights, and you kill early enemies quickly. Therefore delay shield upgrades and save scrap for a weapon. Power constraints also make shields-4 less immediately useful, though still very good. A weapons buffer is decent too, but prioritise saving for a store.
+Zoltan Shield provides strong defence in most fights, and you kill early enemies quickly. Therefore delay shield upgrades and save scrap for a weapon.  Power constraints also make shields-4 less immediately useful, though still very good.
+
+Once you have enough scrap for a store, consider buying a weapons buffer with any spare. Most early fights are safe, but you’re also somewhat fragile due to crew, layout, and power. The weapons buffer does a lot for safety without needing any power. This is a tricky judgement, as it might prevent you buying multiple weapons or hacking together with a weapon. I think this ship is safer than Zoltan A without the buffer, and also has more need to increase early options at stores.
 
 Autofiring the ion on shields is not always the best tactic. Consider sending some ion into enemy weapons; this kills ships more slowly but can be safer. Micro the drone so it doesn’t waste time firing when their shield is up. Against enemies with two shields, fully charge the Charge Ion for the first volley to help it “stick” (and if you only hit one shot, start again).
 

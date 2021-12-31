@@ -7,7 +7,7 @@ Despite its apparent strength, this ship is vulnerable at the start because Mant
 
 Mantis B’s nemesis is an Automated or Zoltan ship with a Small Bomb and Burst Laser 2. Even with **perfect** play, you’ll die about 1 time in 3. I’m not kidding.
 
-The quickest fix is engines. Engines-2 increases your odds of survival to ~94%, engines-3 to nearly 100% and likely to take a lot less damage. If you see an immediate store, take it. You can sell Mantis Pheromones and buy engines-3.
+The quickest fix is engines. Engines-2 increases your odds of survival to 94%, engines-3 to nearly 100% and likely to take a lot less damage. If you see an immediate store, take it. You can sell Mantis Pheromones and buy engines-3.
 
 Read the text for events! [This event](https://ftl.fandom.com/wiki/Federation_Ship_in_need_of_Aid) is a crew fight, and [this event](https://ftl.fandom.com/wiki/Rebel_Scout_Pursuing_Civilian_Ship) is an Automated ship fight. They look similar, but you might want to avoid fighting an unseen Automated ship before you’ve made your ship safer.
 
@@ -23,7 +23,7 @@ When the drone starts leaving a room, you can sometimes make it change destinati
 
 Don’t hesitate to spend drone parts when fights look dangerous. Your boarding drone is not just for Automated ships. A rapid crew-kill can be your best defence.
 
-Precise venting helps against solar flares or fire-lighting weapons. Just before the fire starts, have no oxygen in the bottom-left corner, and switch off O2; but also close the doors. [Repairing O2 is possible](https://www.youtube.com/watch?v=J47ENy6-CAM&t=1m22s) even in a fully-vented ship, providing you have medbay-2: you’ll need to run relays, and the timing is very tight.
+Precise venting helps against solar flares or fire-lighting weapons. Vent the bottom-left corner, then close the doors before the fire starts. Fires suffocate at 10% O2, as opposed to 5% where crew suffocate; so you can even refill those rooms to 10% after venting. It’s possible to repair vented O2 provided you have air in the medbay. When the whole ship is airless, you now need a level 3 medbay to repair O2 ([it used to work with level 2](https://www.youtube.com/watch?v=J47ENy6-CAM&t=1m22s)).
 
 Leave one Mantis in piloting (to start the FTL charging immediately), and put the other in sensors. When completely safe, destroy systems for surrender offers (as low as 1 hull).
 

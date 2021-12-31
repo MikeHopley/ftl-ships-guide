@@ -12,7 +12,7 @@ Mantis and Human are the strongest and safest boarding party. Keeping Zoltans at
 
 Start the engines Zoltan in sensors. This gives information on enemy crew, and they are close enough to steal teleporter power before a hack lands. To neutralise a teleporter hack with the Zoltan, you must not have any spare reactor power during the hack. With more crew, you can start them in the middle of the clone bay and run towards artillery.
 
-Emergency Respirators make automated ships much easier to board. Keep them until you need to sell them for something better, like a weapon.
+Emergency Respirators help a lot against Automated ships. Your crew are safer and can do 5 damage to weapons before they die, instead of 2 damage. Keep Respirators until you need to sell them for something important, like a weapon. It’s also worth considering selling Respirators at an early store to fund shield upgrades.
 
 As usual, the artillery is too expensive to upgrade, unless you are late in the game with plenty of scrap. Unlike a normal flak weapon, it does not disrupt cloaking.
 
