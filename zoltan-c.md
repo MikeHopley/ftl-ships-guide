@@ -3,7 +3,11 @@ layout: ship
 title: Zoltan C
 subtitle: Cerenkov
 ---
-This ship can have one of the toughest transitions into the mid-game, due to inital reactor costs and the starting ion/drone setup. For example, on most gunships you’d be thrilled with a Flak 1, but on Zoltan C you’d still lack targeted damage. Getting a three-power weapon online together with the Charge Ion is also tough, and can leave you vulnerable in sector 3 with delayed shield upgrades or extremely low power. Although it’s best avoided, do **consider** using the starting offence even through sector 3 if necessary. Depending on your store options and scrap, it may be better to get two shields up first, instead of a minor offensive improvement.
+This ship can have one of the toughest transitions into the mid-game, due to inital reactor costs and the starting ion/drone setup.
+
+For example, on most gunships you’d be thrilled with a Flak 1, but on Zoltan C you’d still lack targeted damage. Getting a three-power weapon online together with the Charge Ion is also tough, and can leave you vulnerable in sector 3 with delayed shield upgrades or extremely low power.
+
+Although it’s best avoided, do **consider** using the starting offence even through sector 3 if necessary. Depending on your store options and scrap, it may be better to get two shields up first, instead of a minor offensive improvement.
 
 Zoltan Shield provides strong defence in most fights, and you kill early enemies quickly. Therefore delay shield upgrades and save scrap for a weapon.  Power constraints also make shields-4 less immediately useful, though still very good.
 
