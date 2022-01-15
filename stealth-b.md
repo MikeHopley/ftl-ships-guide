@@ -10,6 +10,8 @@ If your weapons get hit, don’t just rush all your crew to repair them. Keep th
 
 Plan your jumps carefully, to avoid being forced into asteroid fields. Suns and pulsars are also very bad. Try to avoid nebulas too, as they disable your sensors (see below) and often contain Auto-ships.
 
+Plasma storms in sector 1 are actually safe, providing LRS do not show a ship detected. All the ship fights can be skipped. You have about a one in three chance to get scrap.
+
 Look for flexible routes, so you can skip these hazards without losing beacons. Try to plan a route that lets you retreat to a previous beacon. This gives you a safe place to recover after a disaster. Also plan around doubled fleet pursuit.
 
 Sector 1 distress beacons are worth visiting, but guaranteed fights are better. You have blue options from cloaking (okay, good once upgraded) and the Glaive Beam (weak). Note that Long-Ranged Scanners effectively decrease the value of unmarked beacons.
