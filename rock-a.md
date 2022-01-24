@@ -16,6 +16,8 @@ Use missiles as efficiently as possible, but do use them against threatening wea
 
 When enemy hull is a multiple of 4, consider just using Hull missiles; otherwise, consider destroying piloting with the Artemis to guarantee a Hull Missile will hit. Bear in mind that enemy ships can run away: for example, against a 10-hull enemy, consider starting with a Hull Missile before the Artemis to piloting. If they start running away when the Artemis hits, they have no chance of escape.
 
+Also consider fishing for surrender offers. The typical order of Artemis followed by Hull Missile means you may kill them before their hull is low enough to surrender. Reversing the order might get you a surrender offer with a lot of missiles, and also saves you a missile from the killing blow.
+
 You have three empty system slots to fill, so try to buy your first system a little earlier than usual. [Defence drones cover this ship well](https://i.imgur.com/Hrmzp9N.jpg), as all rooms are outside the blind spot.
 
 Sector 1 distress beacons are worth visiting. You have blue options from Rock crew (good) and Rock Plating (okay). 
