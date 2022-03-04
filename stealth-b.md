@@ -39,7 +39,7 @@ Watch out for *Pirate* Mantis Scouts and Interceptors, because you can’t hit b
 
 Put the Zoltan on engines. They can steal power from cloaking.
 
-Usually start the Glaive in shields, for maximum damage. Sometimes it’s better to start in weapons or drones, to neutralise their offence faster.
+Usually start the Glaive in shields, for maximum damage. Sometimes it’s better to start in weapons or drones, to neutralise their offence faster. Against a two-power weapon system, consider targeting only the weapons to get extra weapons training (but beware enemies running on low hull).
 
 Against Zoltan Shields, use [exact beam placement](https://www.youtube.com/watch?v=oJ8uLSidl7o) to damage weapons. Zoltan sector 2 is less dangerous than you might think, because the Zoltan ships are not pirates: the Zoltan crew will force power into slot 1, so you can disable a 3-power weapons system.
 

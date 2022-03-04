@@ -127,7 +127,7 @@ The strategies for these ships are quite different, reflecting their special sta
 
 In chess, there are many “standard openings” that have stood the test of time. These openings are preferred as they don’t have serious exploitable flaws.
 
-Often it’s possible to use a different move order and arrive at the same opening position later. This is called a *transposition*. Expert chess players use transpositions to gain subtle advantages, even choosing them based on knowledge of the opponents’ playstyle.
+Often it’s possible to use a different move order and arrive at the same opening position later. This is called a *transposition*. Expert chess players use transpositions to gain subtle advantages, even choosing them based on knowledge of the opponent’s playstyle.
 
 Some openings are quite rigid, while others have a maze of transpositions that lead off into obscure openings, into small variations, or back to the main opening line.
 
@@ -137,7 +137,7 @@ These choices might depend on how your opponent behaves. You can think of FTL as
 
 ## Keep an open mind, and keep learning
 
-I think I know FTL pretty well. I expect to win almost every game, unless I’m doing challenges.
+I know FTL pretty well. I win almost every game, unless I’m doing challenges.
 
 That doesn’t mean I’m right about everything, especially when it comes to difficult strategic decisions. FTL is strategically deep, and it’s easy to get set in your ways.
 
