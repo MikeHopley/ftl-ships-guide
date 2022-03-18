@@ -116,6 +116,8 @@ For that reason, vent precisely. Before jumping, drop O2 to 75%. Then vent the 4
 
 Wait to see where enemy hacks land before venting. Get your weapons crew near a door. Remove power from rooms before they get hacked, especially weapons (on the first hack).
 
+When repairing partially-destroyed weapons, having a Zoltan help with repairs will make weapons a priority target! This might be good or bad, depending on how committed you are to fleeing. To avoid it, you can position them on the bottom-left square and dodge them out into cloaking briefly. Dodging out the room can also preserve crew health.
+
 ### *Now you’re just being silly*
 
 Consider [walking your engines Zoltan](https://www.youtube.com/watch?v=OBwB5uSMNpM) around the ship for timing the sensors dash. You can use my [Zoltan treadmill](https://mikehopley.github.io/zoltan-treadmill/) for accurate timing.
