@@ -9,7 +9,7 @@ I mostly plan around selling the augment and if needed the beam, giving 55 scrap
 
 Start fights with Dual Lasers and Breach Bomb powered, then switch to Anti-bio Beam when enemies are not a threat. Use the bomb against threatening weapons. The Breach Bomb can be an effective crew-killing weapon too; it does 30 crew damage. Breaches attract a second crew once repaired, giving a chance to double the damage from a laser or bomb. Sometimes you can use the Breach Bomb for early skill-farming against automated ships (permanently disabling a weapon).
 
-When the enemy ship is “calm”, hurt crew immediately run to the medbay, which makes Anti-bio swipes ineffective. When the ship is not “calm”, they run at 25% health; this applies when there is any system damage, fires, or breaches (or boarders).
+When the enemy ship is “calm”, hurt crew immediately run to the medbay, making Anti-bio swipes ineffective. Otherwise they run at 25% health: this applies when there is any system damage, fires, or breaches (or boarders).
 
 Dual Lasers are fantastic on a 4-slot ship; almost always keep them. Anti-bio Beam is good for crew-kills early on, but falls off later; don’t be afraid to sell it in exchange for something more straightforward. Breach Bomb remains useful the whole game, but you may find something more potent instead.
 
