@@ -37,7 +37,7 @@ Watch out for *Pirate* Mantis Scouts and Interceptors, because you can’t hit b
 
 ## Basic combat
 
-Put the Zoltan on engines. They can steal power from cloaking.
+Put the Zoltan on engines. They can steal power from cloaking. After cloaking-3, consider running your pilot into doors during the jump; this can sometimes let you stop boarders getting into weapons.
 
 Usually start the Glaive in shields, for maximum damage. Sometimes it’s better to start in weapons or drones, to neutralise their offence faster. Against a two-power weapon system, consider targeting only the weapons to get extra weapons training (but beware enemies running on low hull).
 
