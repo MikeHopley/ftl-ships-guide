@@ -6,9 +6,11 @@ subtitle: Shivan
 
 Your offence is good initially, but terrible against two-shield enemies. You also have a weapons buffer for the Heavy Pierce. Delay shield upgrades enough to afford a weapon. Selling Rock Plating and Fire Bomb gets you 65 scrap, so you only need to float 15 scrap.
 
-Heavy Pierce is good early on, but power-hungry and does not play well with beam weapons. The Fire Bomb can get crew kills, but only use it when you are safe. Remember it can help you kill the Flagship crew.
+Floating 40 scrap would let you buy hacking or mind control without selling the Fire Bomb, or 50 scrap for a teleporter instead. This delays shield upgrades considerably, and those systems do not help much in Zoltan fights. I think it’s safer to float 15, which still gives the option to trade Fire Bomb for hacking. With level 2 hacking and trained weapons crew, Heavy Pierce can hit [twice in one shields hack](https://www.youtube.com/watch?v=aUih2EGYx7s).
 
 Zoltan enemies are dangerous for this ship. It takes four Heavy Pierce shots to hurt them, so 36 seconds assuming no misses or weapons damage! If a Zoltan fight goes badly, prioritise keeping your FTL charging over repairing weapons. In an early Zoltan sector, the Border Police could be deadly; consider moving crew towards the middle of the ship in advance.
+
+Heavy Pierce is good early on, but power-hungry and does not play well with beam weapons. The Fire Bomb can get crew kills, but only use it when you are safe. Remember it can help you kill the Flagship crew.
 
 Crew kills are nuanced with this ship. You can soften crew up with the Heavy Pierce to save bombs, or maybe try for a breach in O2; but that depletes the enemy hull. The Fire Bomb explosion does 30 crew damage, but that’s a lot of bombs to kill crew directly. Fires pull a second crew, as do breaches once repaired; you can then drop another Fire Bomb or Heavy Pierce on both crew. Engi crew are a problem, and you may want to target them directly first.
 
