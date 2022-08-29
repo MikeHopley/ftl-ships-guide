@@ -4,19 +4,17 @@ title: Rock B
 subtitle: Shivan
 ---
 
-Your offence is good initially, but terrible against two-shield enemies. You also have a weapons buffer for the Heavy Pierce. Delay shield upgrades enough to afford a weapon. Selling Rock Plating and Fire Bomb gets you 65 scrap, so you only need to float 15 scrap.
+Your offence is good initially, but terrible against two-shield enemies. You also have a weapons buffer for the Heavy Pierce. Delay shield upgrades enough to afford a weapon. Selling Rock Plating and Fire Bomb gets you 65 scrap, so you only need to float 15.
 
-Floating 40 scrap would let you buy hacking or mind control without selling the Fire Bomb, or 50 scrap for a teleporter instead. This delays shield upgrades considerably, and those systems do not help much in Zoltan fights. I think it’s safer to float 15, which still gives the option to trade Fire Bomb for hacking. With level 2 hacking and trained weapons crew, Heavy Pierce can hit [twice in one shields hack](https://www.youtube.com/watch?v=aUih2EGYx7s).
+If you don’t find a shield-breaking weapon, buy a system instead. Hacking, teleporter, or mind control make the Fire Bomb much better. With level 2 hacking and trained weapons crew, Heavy Pierce can hit [twice in one shields hack](https://www.youtube.com/watch?v=aUih2EGYx7s). Even drone control with a combat drone can work.
+
+Floating 40 scrap would let you buy hacking or mind control without selling the Fire Bomb, or 50 scrap for a teleporter instead. This delays shield upgrades considerably, and those systems do not help much in Zoltan fights. I think it’s safer to float 15, which still gives the option to trade Fire Bomb for hacking.
 
 Zoltan enemies are dangerous for this ship. It takes four Heavy Pierce shots to hurt them, so 36 seconds assuming no misses or weapons damage! If a Zoltan fight goes badly, prioritise keeping your FTL charging over repairing weapons. In an early Zoltan sector, the Border Police could be deadly; consider moving crew towards the middle of the ship in advance.
 
-Heavy Pierce is good early on, but power-hungry and does not play well with beam weapons. The Fire Bomb can get crew kills, but only use it when you are safe. Remember it can help you kill the Flagship crew.
+It’s tempting to upgrade weapons early, so you can use them together and get more crew kills; but you need that scrap for shields and offence. Beware taking significant damage in return for a crew kill. It’s tempting, but your odds for a usable weapon drop are not good enough to justify taking chunks out your hull. Also be careful with your missile stocks. It makes sense to use them more freely while you have lots, but running low narrows your strategic options for sector 3: you may be forced into using Fire Bomb with system support.
 
 Crew kills are nuanced with this ship. You can soften crew up with the Heavy Pierce to save bombs, or maybe try for a breach in O2; but that depletes the enemy hull. The Fire Bomb explosion does 30 crew damage, but that’s a lot of bombs to kill crew directly. Fires pull a second crew, as do breaches once repaired; you can then drop another Fire Bomb or Heavy Pierce on both crew. Engi crew are a problem, and you may want to target them directly first.
-
-Beware taking significant damage in return for a crew kill. The temptation is higher than most ships, as you really need *something* for two-shield ships in sector 3; but your odds of getting a usable weapon from a crew kill are not good enough to justify taking chunks out your hull. Also be careful with your missile stocks. It makes sense to use them more freely while you have lots, but running low narrows your strategic options for sector 3: you may be forced into using Fire Bomb with system support.
-
-It’s tempting to upgrade weapons early, so you can use them together; but this doesn’t improve your offence enough. That scrap is better saved for buying a weapon, a system, or shields-4. Mind control or hacking makes the Fire Bomb much better. Also consider a teleporter for Rock fire-boarding shenanigans.
 
 Do consider the weapons upgrade *after* saving for critical purchases: it’s good for crew kills, and gives safety through more offence and an Artemis-proof double weapons buffer.
 
