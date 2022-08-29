@@ -6,7 +6,7 @@ subtitle: Shivan
 
 Your offence is good initially, but terrible against two-shield enemies. You also have a weapons buffer for the Heavy Pierce. Delay shield upgrades enough to afford a weapon. Selling Rock Plating and Fire Bomb gets you 65 scrap, so you only need to float 15.
 
-If you don’t find a shield-breaking weapon, buy a system instead. Hacking, teleporter, or mind control make the Fire Bomb much better. With level 2 hacking and trained weapons crew, Heavy Pierce can hit [twice in one shields hack](https://www.youtube.com/watch?v=aUih2EGYx7s). Even drone control with a combat drone can work.
+If you don’t find a shield-breaking weapon, buy a system instead. Hacking, teleporter, or mind control makes the Fire Bomb much better. With level 2 hacking and trained weapons crew, Heavy Pierce can hit [twice in one shields hack](https://www.youtube.com/watch?v=aUih2EGYx7s). Even drone control with a combat drone can work.
 
 Floating 40 scrap would let you buy hacking or mind control without selling the Fire Bomb, or 50 scrap for a teleporter instead. This delays shield upgrades considerably, and those systems do not help much in Zoltan fights. I think it’s safer to float 15, which still gives the option to trade Fire Bomb for hacking.
 
