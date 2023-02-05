@@ -3,7 +3,7 @@ layout: ship
 title: Zoltan A
 subtitle: The Adjudicator
 ---
-In early fights, typically use the Halberd and start the beam in shields for maximum damage. Be aware that some enemies (such as Rebels) are quite likely to have shields-3.
+In early fights, typically use the Halberd and start the beam in shields for maximum damage against unbuffered shields.
 
 **Occasionally** it may be better to open fights with a Leto to weapons, before switching to the Halberd; consider which weapon might be switched off. This is good against Zoltan ships, as it allows your Halberd to [pierce into weapons](https://www.youtube.com/watch?v=IsY5J8t3_ok). Generally though, even in dangerous fights, I think it’s safer to try the Halberd and only swap to the Leto if your weapons are hit.
 

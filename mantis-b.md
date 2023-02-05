@@ -3,6 +3,8 @@ layout: ship
 title: Mantis B
 subtitle: The Basilisk
 ---
+The O2/doors corner is vulnerable to damage and fires. This can largely be neutralised with [correct preparation](https://www.youtube.com/watch?v=YWE89mQGzrA). It’s possible to [repair vented O2](https://www.youtube.com/watch?v=5SEw_KXdtpk&t=470s) provided you have air in the medbay and Pheromones. With an [airless ship](https://www.youtube.com/watch?v=5SEw_KXdtpk&t=942s), you need a level 3 medbay to repair O2.
+
 Despite its apparent strength, this ship is vulnerable at the start because Mantis crew are terrible at repairs and fire-fighting. Plan routes that let you revisit a previous beacon and repair after a disaster.
 
 Mantis B’s nemesis is an Automated or Zoltan ship with a Small Bomb and Burst Laser 2. Even with **perfect** play, you’ll die about 1 time in 3. I’m not kidding.
@@ -22,8 +24,6 @@ The boarding drone will eventually kill any Automated ship, unless it lands in a
 When the drone starts leaving a room, you can sometimes make it change destination by toggling power. For example, when the drone lands in the shields room on an Auto-scout, you can force its next room to be weapons instead of piloting.
 
 Don’t hesitate to spend drone parts when fights look dangerous. Your boarding drone is not just for Automated ships. A rapid crew-kill can be your best defence.
-
-Precise venting helps against solar flares or fire-lighting weapons. Vent the bottom-left corner, then close the doors before the fire starts. Fires suffocate at 10% O2, as opposed to 5% where crew suffocate; so you can even refill those rooms to 10% after venting. It’s possible to repair vented O2 provided you have air in the medbay. When the whole ship is airless, you now need a level 3 medbay to repair O2 ([it used to work with level 2](https://www.youtube.com/watch?v=J47ENy6-CAM&t=1m22s)).
 
 Leave one Mantis in piloting (to start the FTL charging immediately), and put the other in sensors. When completely safe, destroy systems for surrender offers (as low as 1 hull).
 
