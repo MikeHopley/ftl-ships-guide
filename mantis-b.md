@@ -7,7 +7,7 @@ The O2/doors corner is vulnerable to damage and fires. This can largely be neutr
 
 Despite its apparent strength, this ship is vulnerable at the start because Mantis crew are terrible at repairs and fire-fighting. Plan routes that let you revisit a previous beacon and repair after a disaster.
 
-Mantis B’s nemesis is an Automated or Zoltan ship with a Small Bomb and Burst Laser 2. Even with **perfect** play, you’ll die about 1 time in 3. I’m not kidding.
+Mantis B’s nemesis is an Automated or Zoltan ship with a Small Bomb and Burst Laser 2. Even with **perfect** play, you’ll die about 1 time in 7.
 
 The quickest fix is engines. Engines-2 increases your odds of survival to 94%, engines-3 to nearly 100% and likely to take a lot less damage. If you see an immediate store, take it. You can sell Mantis Pheromones and buy engines-3.
 

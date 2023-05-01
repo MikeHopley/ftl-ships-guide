@@ -31,7 +31,7 @@ I don’t want to clutter the guide with attributions, so I’ll just mention th
 
 In no particular order:
 
-*Twinge, mekloz, Thomas Pettersson, Billy Kirby, chewbacca77, lifesaburrito, Crowrevell, Farb, Masala, Threarah, Hexagon, Scott Onesie Wilson, DiscordDraconequus, neozar, Ray Robertson, mathchamp93*
+*Twinge, mekloz, Thomas Pettersson, Billy Kirby, chewbacca77, lifesaburrito, Crowrevell, Farb, Masala, Threarah, Hexagon, Scott Onesie Wilson, DiscordDraconequus, neozar, Ray Robertson, mathchamp93, TheSwiftTiger*
 
 No doubt I’ve missed some. The FTL community is amazing.
 
@@ -43,9 +43,7 @@ To win consistently, you must play as “safely” as possible and get through t
 * Two shields
 * Offence that works well against two-shield enemies
 
-“Offence” at this stage usually means a weapon, but it could be hacking, mind control, teleporter, or a combat drone.
-
-Ideally I like to start with a good weapon, then add hacking a bit later.  Prefer 1- or 2-power weapons that you can get online quickly.
+“Offence” often means a weapon or hacking. It could also be mind control, teleporter, or a combat drone.
 
 
 ## General early strategy
@@ -54,13 +52,13 @@ For most ships and most runs:
 
 * Spend your first 20 scrap on shields-3
 * Spend your next 30 scrap on shields-4
-* Then save for a weapon, or other offence
+* Then save for offence
 
 Shields-3 provides a damage buffer, so your shield will not go down from (say) a Leto. Most of the time, you can get away without this; but it only takes one nasty fight where you lose 20 hull to make you appreciate the value of shields-3.
 
-Don’t wait on power before buying shields-4. Having two shields makes you much safer in sectors 1 and 2. Power can come later, after saving for a weapon.
+Don’t wait on power before buying shields-4. You don’t need power until sector 3 or later.
 
-This strategy has a downside: it may stop you buying a weapon or system in a sector 1 store. A bad layout in sector 2 could prevent you from finding any stores, or the stores might sell nothing useful.
+This strategy has a downside: it may stop you buying a weapon or system in a sector 1 store. A bad layout in sector 2 could prevent you from finding any stores, or the stores might be useless.
 
 For that reason, it’s sometimes worth delaying your shield upgrades. There are two possibilities:
 
@@ -108,11 +106,11 @@ This evaluation could change if you find (or buy) a 1-power weapon early, becaus
 
 ### Minor upgrades
 
-Engines-2 and engines-3 are useful and cheap. Fit them in when you can, but do not let them delay shield upgrades or stop you buying an important weapon. At 15 scrap, engines-3 competes with shields-3, and I think shields-3 is almost strictly better.
+Engines-2 and engines-3 are useful and cheap. Fit them in when you can, but do not let them delay shield upgrades or stop you buying an early weapon or system. At 15 scrap, engines-3 competes with shields-3, and I think shields-3 is almost strictly better.
 
 Note that shields-4 is **much** better than early engine upgrades, because it also lets you farm crew skill against enemies that cannot hurt you. 10% free evade is about 90 scrap value!
 
-Piloting-2 can be tempting when you’re visiting nebula beacons without a clone bay, for a [chance of a free weapon](http://ftl.wikia.com/wiki/Plasma_Storm_Incapacitated_Ships). But this is very luck-dependent. That 20 scrap is better spent on shields-3.
+Piloting-2 can be tempting when you’re visiting nebula beacons without a clone bay, for a [chance of a free weapon](http://ftl.wikia.com/wiki/Plasma_Storm_Incapacitated_Ships); but this is very luck-dependent. That 20 scrap is better spent on shields-3.
 
 Never waste early-game scrap on luxury purchases like medbay-2, doors-2, or Scrap Recovery Arm.
 
