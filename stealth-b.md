@@ -33,8 +33,6 @@ If a scary-looking pirate is [offering you a bribe](https://ftl.fandom.com/wiki/
 
 Consider the event reward. An Auto-assault guarding a [storage cache](https://ftl.fandom.com/wiki/Rebel_Automated_Ship_Near_Storage_Vessel) is worth more than one guarding a [sensor station](https://ftl.fandom.com/wiki/Rebel_Automated_Ship_Near_Sensor_Station), which is worth more than one [that’s deactivated](https://ftl.fandom.com/wiki/De-Activated_Rebel_Automated_Scout).
 
-Watch out for *Pirate* Mantis Scouts and Interceptors, because you can’t hit both shields and weapons.
-
 ## Basic combat
 
 Put the Zoltan on engines. They can steal power from cloaking. After cloaking-3, consider running your pilot into doors during the jump; this may stop boarders getting into weapons.
@@ -148,9 +146,11 @@ A less exacting tactic is to just cloak the faster weapon without toggling.
 
 ### Burst Laser 2 (unmanned)
 
-Now it gets complicated. Consider an enemy ship where the weapons room is at most 1 tile separated from the shields room. A common example in sector 1 would be a Rebel Fighter that boards you anywhere but weapons.
+With no interruptions, your Glaive will always fire most of its beam before an unmanned BL2 hits.
 
-*With no interruptions*, your Glaive will always fire **most** of its beam before an unmanned BL2 hits. That’s enough to kill those ships. However, toggling the Glaive usually lets the BL2 hit about when you start firing.
+That’s enough to kill almost all ships in sectors 1 and 2, or at least destroy their weapons directly. Exceptions: cloaking, hacking, Zoltan Shields, and pirate Mantis Interceptor in sector 2.
+
+Toggling the Glaive usually lets the BL2 hit about when you start firing. Therefore it can be better to pre-cloak and skip the toggle.
 
 **BL2 + Heavy Laser**, for example. The Heavy Laser forces cloaking if it heads towards *either* weapons or cloaking. Toggling has little benefit here, since you protect weapons at the expense of cloaking; it only drops the chance that *either* system is hit from 5.9% to 5.1%.
 
@@ -160,6 +160,6 @@ So toggling makes the Heavy Laser fractionally less dangerous, while making the 
 
 **Ion Stunner?** Toggle, and cloak both weapons together. The chance of failure is marginally lower, and you also save hull.
 
-**Mini Beam?** Toggle and cloak the BL2. Pre-cloaking (without a toggle) raises the chance of the Mini-Beam directly hitting weapons from 6.5% to 19%.
-
 **Small Bomb?** Pre-cloak without toggling, and you finish firing before either weapon can hit.
+
+**Mini Beam?** Pre-cloaking with a near-perfect toggle (Zoltan on sensors) is slightly better, based on 50 tests each. Otherwise, just toggle and cloak the BL2.
