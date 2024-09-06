@@ -31,7 +31,7 @@ I don’t want to clutter the guide with attributions, so I’ll just mention th
 
 In no particular order:
 
-*Twinge, mekloz, Thomas Pettersson, Billy Kirby, chewbacca77, lifesaburrito, Crowrevell, Farb, Masala, Threarah, Hexagon, Scott Onesie Wilson, DiscordDraconequus, neozar, Ray Robertson, mathchamp93, TheSwiftTiger*
+*Twinge, mekloz, Thomas Pettersson, Billy Kirby, chewbacca77, lifesaburrito, Crowrevell, Farb, Masala, Threarah, Hexagon, Scott Onesie Wilson, DiscordDraconequus, neozar, Ray Robertson, mathchamp93, TheSwiftTiger, Znix*
 
 No doubt I’ve missed some. The FTL community is amazing.
 
